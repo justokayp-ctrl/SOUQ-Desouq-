@@ -1,0 +1,457 @@
+{
+  "timestamp": "2026-09-23T11:16:59.323Z",
+  "environment": "testing",
+  "totalSuites": 12,
+  "totalTests": 58,
+  "passed": 58,
+  "failed": 0,
+  "passRate": 100,
+  "totalDurationMs": 912,
+  "averageTestDurationMs": 15.72,
+  "suites": {
+    "Authentication & Role-Based Access Control (RBAC)": {
+      "total": 11,
+      "passed": 11,
+      "failed": 0,
+      "durationMs": 79,
+      "tests": [
+        {
+          "suite": "Authentication & Role-Based Access Control (RBAC)",
+          "name": "Customer authentication with valid credentials",
+          "passed": true,
+          "durationMs": 9
+        },
+        {
+          "suite": "Authentication & Role-Based Access Control (RBAC)",
+          "name": "Seller authentication links to merchant ID",
+          "passed": true,
+          "durationMs": 8
+        },
+        {
+          "suite": "Authentication & Role-Based Access Control (RBAC)",
+          "name": "Admin authentication with elevated privileges",
+          "passed": true,
+          "durationMs": 8
+        },
+        {
+          "suite": "Authentication & Role-Based Access Control (RBAC)",
+          "name": "Support persona authentication for consumer protection arbitration",
+          "passed": true,
+          "durationMs": 8
+        },
+        {
+          "suite": "Authentication & Role-Based Access Control (RBAC)",
+          "name": "Invalid password rejection",
+          "passed": true,
+          "durationMs": 8
+        },
+        {
+          "suite": "Authentication & Role-Based Access Control (RBAC)",
+          "name": "Non-existent email rejection",
+          "passed": true,
+          "durationMs": 8
+        },
+        {
+          "suite": "Authentication & Role-Based Access Control (RBAC)",
+          "name": "JWT token generation and verification cycle",
+          "passed": true,
+          "durationMs": 8
+        },
+        {
+          "suite": "Authentication & Role-Based Access Control (RBAC)",
+          "name": "Tampered or invalid JWT token rejection",
+          "passed": true,
+          "durationMs": 6
+        },
+        {
+          "suite": "Authentication & Role-Based Access Control (RBAC)",
+          "name": "Authoritative session revocation immediately invalidates token",
+          "passed": true,
+          "durationMs": 6
+        },
+        {
+          "suite": "Authentication & Role-Based Access Control (RBAC)",
+          "name": "Disposable email and dummy domains are blocked strictly",
+          "passed": true,
+          "durationMs": 5
+        },
+        {
+          "suite": "Authentication & Role-Based Access Control (RBAC)",
+          "name": "Brute force protection locks account after repeated failed attempts",
+          "passed": true,
+          "durationMs": 5
+        }
+      ]
+    },
+    "Catalog & Multi-Factor Search Engine": {
+      "total": 4,
+      "passed": 4,
+      "failed": 0,
+      "durationMs": 125,
+      "tests": [
+        {
+          "suite": "Catalog & Multi-Factor Search Engine",
+          "name": "Database catalog loads initial seed products",
+          "passed": true,
+          "durationMs": 32
+        },
+        {
+          "suite": "Catalog & Multi-Factor Search Engine",
+          "name": "Category taxonomy metadata lists marketplace categories",
+          "passed": true,
+          "durationMs": 31
+        },
+        {
+          "suite": "Catalog & Multi-Factor Search Engine",
+          "name": "Category filter isolates products by taxonomy",
+          "passed": true,
+          "durationMs": 31
+        },
+        {
+          "suite": "Catalog & Multi-Factor Search Engine",
+          "name": "Local Desoq specialty products flag filter",
+          "passed": true,
+          "durationMs": 31
+        }
+      ]
+    },
+    "Server-Side Cart & Authoritative Checkout Quotes": {
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 32,
+      "tests": [
+        {
+          "suite": "Server-Side Cart & Authoritative Checkout Quotes",
+          "name": "Server cart initializes empty for new user session",
+          "passed": true,
+          "durationMs": 7
+        },
+        {
+          "suite": "Server-Side Cart & Authoritative Checkout Quotes",
+          "name": "Adding items to server cart enforces authoritative catalog pricing",
+          "passed": true,
+          "durationMs": 7
+        },
+        {
+          "suite": "Server-Side Cart & Authoritative Checkout Quotes",
+          "name": "Updating item quantity in server cart",
+          "passed": true,
+          "durationMs": 6
+        },
+        {
+          "suite": "Server-Side Cart & Authoritative Checkout Quotes",
+          "name": "Removing item from server cart",
+          "passed": true,
+          "durationMs": 5
+        },
+        {
+          "suite": "Server-Side Cart & Authoritative Checkout Quotes",
+          "name": "Authoritative quote calculation computes subtotals, shipping, and coupon discounts",
+          "passed": true,
+          "durationMs": 4
+        },
+        {
+          "suite": "Server-Side Cart & Authoritative Checkout Quotes",
+          "name": "Quote calculation rejects invalid coupon codes without crashing",
+          "passed": true,
+          "durationMs": 3
+        }
+      ]
+    },
+    "Orders Engine & Transactional Inventory Locking": {
+      "total": 3,
+      "passed": 3,
+      "failed": 0,
+      "durationMs": 21,
+      "tests": [
+        {
+          "suite": "Orders Engine & Transactional Inventory Locking",
+          "name": "Transactional inventory blocks overselling beyond available stock",
+          "passed": true,
+          "durationMs": 9
+        },
+        {
+          "suite": "Orders Engine & Transactional Inventory Locking",
+          "name": "Multi-vendor order creation splits cart into distinct merchant sub-orders",
+          "passed": true,
+          "durationMs": 7
+        },
+        {
+          "suite": "Orders Engine & Transactional Inventory Locking",
+          "name": "Sub-order status progression and tracking assignment",
+          "passed": true,
+          "durationMs": 5
+        }
+      ]
+    },
+    "Payments, Refunds, Webhook Idempotency & Seller Ledger": {
+      "total": 11,
+      "passed": 11,
+      "failed": 0,
+      "durationMs": 301,
+      "tests": [
+        {
+          "suite": "Payments, Refunds, Webhook Idempotency & Seller Ledger",
+          "name": "Search autocomplete suggestions route returns relevant prefix matches",
+          "passed": true,
+          "durationMs": 49
+        },
+        {
+          "suite": "Payments, Refunds, Webhook Idempotency & Seller Ledger",
+          "name": "Popular search terms endpoint returns curated local keywords",
+          "passed": true,
+          "durationMs": 47
+        },
+        {
+          "suite": "Payments, Refunds, Webhook Idempotency & Seller Ledger",
+          "name": "Search service sorts products by price ascending (من الأقل للأعلى)",
+          "passed": true,
+          "durationMs": 47
+        },
+        {
+          "suite": "Payments, Refunds, Webhook Idempotency & Seller Ledger",
+          "name": "Search service sorts products by price descending (من الأعلى للأقل)",
+          "passed": true,
+          "durationMs": 45
+        },
+        {
+          "suite": "Payments, Refunds, Webhook Idempotency & Seller Ledger",
+          "name": "Search service sorts products by rating (الأعلى تقييماً)",
+          "passed": true,
+          "durationMs": 37
+        },
+        {
+          "suite": "Payments, Refunds, Webhook Idempotency & Seller Ledger",
+          "name": "Search service sorts products by date added (الأحدث وصولاً)",
+          "passed": true,
+          "durationMs": 34
+        },
+        {
+          "suite": "Payments, Refunds, Webhook Idempotency & Seller Ledger",
+          "name": "Idempotency key prevents duplicate order creation and double inventory deduction",
+          "passed": true,
+          "durationMs": 14
+        },
+        {
+          "suite": "Payments, Refunds, Webhook Idempotency & Seller Ledger",
+          "name": "Payment confirmation updates order payment status and records payment event",
+          "passed": true,
+          "durationMs": 11
+        },
+        {
+          "suite": "Payments, Refunds, Webhook Idempotency & Seller Ledger",
+          "name": "Order delivery moves net balance from pending to seller available balance and logs ledger entry",
+          "passed": true,
+          "durationMs": 9
+        },
+        {
+          "suite": "Payments, Refunds, Webhook Idempotency & Seller Ledger",
+          "name": "Sub-order refund atomically restocks inventory back to warehouse",
+          "passed": true,
+          "durationMs": 6
+        },
+        {
+          "suite": "Payments, Refunds, Webhook Idempotency & Seller Ledger",
+          "name": "Immutable Financial Ledger records transaction trail",
+          "passed": true,
+          "durationMs": 2
+        }
+      ]
+    },
+    "Egyptian Consumer Protection Law 181/2018 Arbitration & Disputes": {
+      "total": 3,
+      "passed": 3,
+      "failed": 0,
+      "durationMs": 16,
+      "tests": [
+        {
+          "suite": "Egyptian Consumer Protection Law 181/2018 Arbitration & Disputes",
+          "name": "Customer initializes formal dispute under Law 181/2018",
+          "passed": true,
+          "durationMs": 9
+        },
+        {
+          "suite": "Egyptian Consumer Protection Law 181/2018 Arbitration & Disputes",
+          "name": "Support/Admin executes binding arbitration in favor of consumer refund",
+          "passed": true,
+          "durationMs": 6
+        },
+        {
+          "suite": "Egyptian Consumer Protection Law 181/2018 Arbitration & Disputes",
+          "name": "Retrieving all disputes for administrative dashboard review",
+          "passed": true,
+          "durationMs": 1
+        }
+      ]
+    },
+    "Domain Event Bus & Asynchronous Worker Engine": {
+      "total": 2,
+      "passed": 2,
+      "failed": 0,
+      "durationMs": 75,
+      "tests": [
+        {
+          "suite": "Domain Event Bus & Asynchronous Worker Engine",
+          "name": "Search service indexes catalog products and executes search queries",
+          "passed": true,
+          "durationMs": 73
+        },
+        {
+          "suite": "Domain Event Bus & Asynchronous Worker Engine",
+          "name": "WorkerEngine enqueues background job and computes real-time telemetry metrics",
+          "passed": true,
+          "durationMs": 2
+        }
+      ]
+    },
+    "SOUQ DESOQ — SELLER WORKSPACE OPERATIONS & ISOLATION": {
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 206,
+      "tests": [
+        {
+          "suite": "SOUQ DESOQ — SELLER WORKSPACE OPERATIONS & ISOLATION",
+          "name": "Search engine Arabic normalization handles alef/ta-marbuta variations",
+          "passed": true,
+          "durationMs": 96
+        },
+        {
+          "suite": "SOUQ DESOQ — SELLER WORKSPACE OPERATIONS & ISOLATION",
+          "name": "EventBus publishes domain event and persists record in database",
+          "passed": true,
+          "durationMs": 30
+        },
+        {
+          "suite": "SOUQ DESOQ — SELLER WORKSPACE OPERATIONS & ISOLATION",
+          "name": "Seller A vs Seller B: Strict Ownership & Product Isolation",
+          "passed": true,
+          "durationMs": 26
+        },
+        {
+          "suite": "SOUQ DESOQ — SELLER WORKSPACE OPERATIONS & ISOLATION",
+          "name": "CRUD Lifecycle: Create, Edit, Duplicate, Status Transitions, Delete",
+          "passed": true,
+          "durationMs": 24
+        },
+        {
+          "suite": "SOUQ DESOQ — SELLER WORKSPACE OPERATIONS & ISOLATION",
+          "name": "Inventory Calculation: Available, Reserved, Low Stock, Out of Stock",
+          "passed": true,
+          "durationMs": 16
+        },
+        {
+          "suite": "SOUQ DESOQ — SELLER WORKSPACE OPERATIONS & ISOLATION",
+          "name": "Orders 6-Stage Workflow: New -> Preparing -> Ready -> Shipped -> Delivered -> Exception",
+          "passed": true,
+          "durationMs": 14
+        }
+      ]
+    },
+    "SOUQ DESOQ — 11-Step Product Creation Wizard & Dynamic Fields Engine": {
+      "total": 3,
+      "passed": 3,
+      "failed": 0,
+      "durationMs": 9,
+      "tests": [
+        {
+          "suite": "SOUQ DESOQ — 11-Step Product Creation Wizard & Dynamic Fields Engine",
+          "name": "Category dynamic fields contain domain-specific attributes for Clothing, Perfumes, and Desoq Delicacies",
+          "passed": true,
+          "durationMs": 3
+        },
+        {
+          "suite": "SOUQ DESOQ — 11-Step Product Creation Wizard & Dynamic Fields Engine",
+          "name": "Validation Engine catches empty titles, invalid prices, and missing categories",
+          "passed": true,
+          "durationMs": 4
+        },
+        {
+          "suite": "SOUQ DESOQ — 11-Step Product Creation Wizard & Dynamic Fields Engine",
+          "name": "Variant validation catches duplicate SKUs and negative stock",
+          "passed": true,
+          "durationMs": 2
+        }
+      ]
+    },
+    "API Security Boundaries, RBAC & Ownership Enforcement": {
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "durationMs": 20,
+      "tests": [
+        {
+          "suite": "API Security Boundaries, RBAC & Ownership Enforcement",
+          "name": "Concurrency & Atomic Stock Refills",
+          "passed": true,
+          "durationMs": 20
+        }
+      ]
+    },
+    "End-to-End Marketplace Journeys & Concurrency Stress Test": {
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "durationMs": 13,
+      "tests": [
+        {
+          "suite": "End-to-End Marketplace Journeys & Concurrency Stress Test",
+          "name": "Backend accepts and persists product with 11-step attributes and all statuses",
+          "passed": true,
+          "durationMs": 13
+        }
+      ]
+    },
+    "QA Integrity Suite — Project Structure, Data & Standards": {
+      "total": 7,
+      "passed": 7,
+      "failed": 0,
+      "durationMs": 15,
+      "tests": [
+        {
+          "suite": "QA Integrity Suite — Project Structure, Data & Standards",
+          "name": "Core platform configuration files exist",
+          "passed": true,
+          "durationMs": 3
+        },
+        {
+          "suite": "QA Integrity Suite — Project Structure, Data & Standards",
+          "name": "Metadata.json schema contains required title and capabilities",
+          "passed": true,
+          "durationMs": 3
+        },
+        {
+          "suite": "QA Integrity Suite — Project Structure, Data & Standards",
+          "name": "HTML title and meta match application branding",
+          "passed": true,
+          "durationMs": 3
+        },
+        {
+          "suite": "QA Integrity Suite — Project Structure, Data & Standards",
+          "name": "Catalog seed data referential integrity: Every product references an existing seller",
+          "passed": true,
+          "durationMs": 2
+        },
+        {
+          "suite": "QA Integrity Suite — Project Structure, Data & Standards",
+          "name": "Database products table is seeded and accessible",
+          "passed": true,
+          "durationMs": 2
+        },
+        {
+          "suite": "QA Integrity Suite — Project Structure, Data & Standards",
+          "name": "Localization dictionaries are complete for key UI strings",
+          "passed": true,
+          "durationMs": 1
+        },
+        {
+          "suite": "QA Integrity Suite — Project Structure, Data & Standards",
+          "name": "Repository safety: No sensitive production private keys committed in source files",
+          "passed": true,
+          "durationMs": 1
+        }
+      ]
+    }
+  }
+}

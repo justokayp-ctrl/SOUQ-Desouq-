@@ -1,0 +1,2483 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "sellerId": "seller-1",
+      "titleAr": "طقم ملايات قطن مصري 100% تطريز يدوي فاخر - 6 قطع",
+      "titleEn": "100% Egyptian Cotton Luxury Bed Sheet Set (6 Pcs)",
+      "descriptionAr": "طقم سرير كامل مصنوع من أجود أقطان الدلتا المصرية طويلة التيلة، ناعم جداً ومضاد للحساسية مع تطريز راقٍ صُنع بأيدي نساجي دسوق.",
+      "category": "cat-textiles",
+      "priceEGP": 360,
+      "originalPriceEGP": 1150,
+      "images": [
+        "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=800&auto=format&fit=crop&q=80"
+      ],
+      "stock": 22,
+      "rating": 4.9,
+      "reviewCount": 94,
+      "isFeatured": true,
+      "isDesoqLocalMade": true,
+      "isFastDesoqDelivery": true,
+      "attributes": {
+        "brand": "دلتا تكس دسوق",
+        "origin": "دسوق - كفر الشيخ",
+        "material": "قطن مصري 100%",
+        "warranty": "استبدال واسترجاع 14 يوم مجاناً",
+        "weight": "3.2 كجم"
+      },
+      "variants": [
+        {
+          "id": "v1-1",
+          "name": "أبيض لؤلؤي - سرير كينج 200×200 سم",
+          "sku": "TEX-WHT-KNG",
+          "priceEGP": 890,
+          "stock": 15,
+          "attributes": {
+            "color": "أبيض",
+            "size": "كينج"
+          }
+        },
+        {
+          "id": "v1-2",
+          "name": "كافيه هادئ - سرير كينج 200×200 سم",
+          "sku": "TEX-CAF-KNG",
+          "priceEGP": 890,
+          "stock": 8,
+          "attributes": {
+            "color": "كافيه",
+            "size": "كينج"
+          }
+        },
+        {
+          "id": "v1-3",
+          "name": "وردي عاجي - سرير مزدوج 160×200 سم",
+          "sku": "TEX-PNK-DBL",
+          "priceEGP": 790,
+          "stock": 5,
+          "attributes": {
+            "color": "وردي",
+            "size": "مزدوج"
+          }
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-08-10"
+    },
+    {
+      "id": "prod-2",
+      "sellerId": "seller-2",
+      "titleAr": "صندوق حلويات دسوق الملكي المشكل بالسمن البلدي (2 كجم)",
+      "titleEn": "Desoq Royal Heritage Assorted Sweets Box (2kg)",
+      "descriptionAr": "تشكيلة دسوق التراثية الشهيرة تشمل مشبك دسوق المقرمش العسلي، بسبوسة السمن البلدي الطبيعي، هريسة كفر الشيخ بالمكسرات، ولديدة وقشطة طازجة.",
+      "category": "cat-sweets",
+      "priceEGP": 380,
+      "originalPriceEGP": 440,
+      "images": [
+        "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=800&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1579372786545-d24232daf58c?w=800&auto=format&fit=crop&q=80"
+      ],
+      "stock": 33,
+      "rating": 4.98,
+      "reviewCount": 280,
+      "isFeatured": true,
+      "isDesoqLocalMade": true,
+      "isFastDesoqDelivery": true,
+      "attributes": {
+        "brand": "حلواني النحاس دسوق",
+        "origin": "ميدان سيدي إبراهيم الدسوقي، دسوق",
+        "material": "سمن بلدي بقري طبيعي وعسل جلوكوز نقي",
+        "weight": "2 كجم صافي",
+        "warranty": "طازج معبأ يوم الشحن"
+      },
+      "variants": [
+        {
+          "id": "v2-1",
+          "name": "علبة فاخرة كرتون هدايا - 2 كجم",
+          "sku": "SWT-ROYAL-2K",
+          "priceEGP": 380,
+          "stock": 30,
+          "attributes": {
+            "packaging": "علبة هدايا"
+          }
+        },
+        {
+          "id": "v2-2",
+          "name": "صفيحة معدنية كلاسيكية محكمة - 2.5 كجم",
+          "sku": "SWT-TIN-25K",
+          "priceEGP": 490,
+          "stock": 15,
+          "attributes": {
+            "packaging": "صفيحة معدنية"
+          }
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-09-01"
+    },
+    {
+      "id": "prod-3",
+      "sellerId": "seller-3",
+      "titleAr": "توليفة بن دسوق الخلطة الخاصة محوج بالحَبّهان المستكة والقرنفل (500 جم)",
+      "titleEn": "Desoq Signature Cardamom & Mastic Spiced Coffee (500g)",
+      "descriptionAr": "أفضل توليفة بن بنسب ذهبية من البن الكولومبي والبرازيلي المحمص طازجاً، مع حبهان جواتيمالي أخضر ومستكة يونانية مطحونة باحترافية.",
+      "category": "cat-coffee",
+      "priceEGP": 275,
+      "originalPriceEGP": 320,
+      "images": [
+        "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=800&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&auto=format&fit=crop&q=80"
+      ],
+      "stock": 60,
+      "rating": 4.88,
+      "reviewCount": 142,
+      "isFeatured": true,
+      "isDesoqLocalMade": true,
+      "isFastDesoqDelivery": true,
+      "attributes": {
+        "brand": "محامص بن البرلس ودسوق",
+        "origin": "دسوق، كفر الشيخ",
+        "weight": "500 جرام",
+        "warranty": "تحميص أسبوعي طازج وتغليف بصمام تفريغ الهواء"
+      },
+      "variants": [
+        {
+          "id": "v3-1",
+          "name": "تحويجة وسط - طحن تركي ناعم",
+          "sku": "COF-MED-TURK",
+          "priceEGP": 275,
+          "stock": 35,
+          "attributes": {
+            "roast": "وسط",
+            "grind": "تركي"
+          }
+        },
+        {
+          "id": "v3-2",
+          "name": "تحويجة غامق - طحن تركي ناعم",
+          "sku": "COF-DRK-TURK",
+          "priceEGP": 275,
+          "stock": 25,
+          "attributes": {
+            "roast": "غامق",
+            "grind": "تركي"
+          }
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-09-12"
+    },
+    {
+      "id": "prod-4",
+      "sellerId": "seller-4",
+      "titleAr": "شاحن سريع أنكر 65 وات جان (GaN) 3 منافذ شحن للابتوب والموبايل",
+      "titleEn": "Anker GaN 65W Fast Charger 3-Port for Laptop & Mobile",
+      "descriptionAr": "شاحن أصلي معتمد بتقنية GaN III الحديثة، يوفر شحناً فائق السرعة لهواتف سامسونج وآيفون وأجهزة اللابتوب مع حماية متكاملة من زيادة التيار.",
+      "category": "cat-electronics",
+      "priceEGP": 1250,
+      "originalPriceEGP": 1490,
+      "images": [
+        "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=800&auto=format&fit=crop&q=80"
+      ],
+      "stock": 18,
+      "rating": 4.75,
+      "reviewCount": 63,
+      "isFeatured": false,
+      "isFastDesoqDelivery": true,
+      "attributes": {
+        "brand": "أنكر (Anker)",
+        "origin": "وكيل مصر الرسمي",
+        "warranty": "ضمان 18 شهراً من الوكيل المحلي",
+        "power": "65W GaN"
+      },
+      "variants": [
+        {
+          "id": "v4-1",
+          "name": "لون أسود ملكي",
+          "sku": "ANK-65-BLK",
+          "priceEGP": 1250,
+          "stock": 12,
+          "attributes": {
+            "color": "أسود"
+          }
+        },
+        {
+          "id": "v4-2",
+          "name": "لون أبيض ناصع",
+          "sku": "ANK-65-WHT",
+          "priceEGP": 1250,
+          "stock": 6,
+          "attributes": {
+            "color": "أبيض"
+          }
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-09-20"
+    },
+    {
+      "id": "prod-5",
+      "sellerId": "seller-5",
+      "titleAr": "طقم حلل جرانيت تركي أصلي غير لاصق 10 قطع مع غطاء بايركس",
+      "titleEn": "Turkish Non-Stick Granite Cookware Set (10 Pcs)",
+      "descriptionAr": "طقم طهي صحي خالٍ من حمض PFOA، سمك 4.5 مم لتوزيع مثالي للحرارة وسهولة في التنظيف، مناسب لجميع البوتاجازات المصرية.",
+      "category": "cat-home",
+      "priceEGP": 3450,
+      "originalPriceEGP": 3990,
+      "images": [
+        "https://images.unsplash.com/photo-1584990347449-399092497d3f?w=800&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=800&auto=format&fit=crop&q=80"
+      ],
+      "stock": 9,
+      "rating": 4.6,
+      "reviewCount": 38,
+      "isFeatured": false,
+      "isFastDesoqDelivery": true,
+      "attributes": {
+        "brand": "نيوفلام التركي",
+        "origin": "مستورد تركي نخب أول",
+        "material": "جرانيت صلب غير قابل للخدش",
+        "warranty": "ضمان سنتين ضد عيوب الصناعة"
+      },
+      "variants": [
+        {
+          "id": "v5-1",
+          "name": "رمادي جرانيت داكن",
+          "sku": "GRN-10-GRY",
+          "priceEGP": 3450,
+          "stock": 5,
+          "attributes": {
+            "color": "رمادي"
+          }
+        },
+        {
+          "id": "v5-2",
+          "name": "بيج رخامي أنيق",
+          "sku": "GRN-10-BEG",
+          "priceEGP": 3450,
+          "stock": 4,
+          "attributes": {
+            "color": "بيج"
+          }
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-10-05"
+    },
+    {
+      "id": "prod-6",
+      "sellerId": "seller-1",
+      "titleAr": "بشكير حمام قطن مصري فاخر كثافة 650 جرام (طقم قطعتين)",
+      "titleEn": "Luxury Egyptian Cotton Bath Towels 650 GSM (Set of 2)",
+      "descriptionAr": "مناشف استحمام بأعلى معايير الجودة العالمية، نعومة فائقة مع قدرة امتصاص عالية وسريعة الجفاف.",
+      "category": "cat-textiles",
+      "priceEGP": 460,
+      "originalPriceEGP": 580,
+      "images": [
+        "https://images.unsplash.com/photo-1583845112239-97ef1341b271?w=800&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=800&auto=format&fit=crop&q=80"
+      ],
+      "stock": 34,
+      "rating": 4.85,
+      "reviewCount": 52,
+      "isFeatured": false,
+      "isDesoqLocalMade": true,
+      "isFastDesoqDelivery": true,
+      "attributes": {
+        "brand": "دلتا تكس دسوق",
+        "origin": "دسوق، كفر الشيخ",
+        "material": "100% قطن مصري ممتاز",
+        "warranty": "ضمان ثبات اللون بعد الغسيل المتكرر"
+      },
+      "status": "active",
+      "createdAt": "2024-10-10"
+    }
+  ],
+  "sellers": [
+    {
+      "id": "seller-1",
+      "name": "أقمشة ومنسوجات دلتا دسوق",
+      "ownerName": "الحاج مصطفى الصياد",
+      "arabicName": "أقمشة ومنسوجات دلتا دسوق",
+      "slug": "delta-desoq-textiles",
+      "logo": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=150&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1607344645866-009c320c5ab8?w=1000&auto=format&fit=crop&q=80",
+      "rating": 4.9,
+      "reviewCount": 248,
+      "governorate": "كفر الشيخ",
+      "city": "دسوق",
+      "address": "شارع سعد زغلول بجوار مسجد سيدي إبراهيم الدسوقي، دسوق",
+      "phone": "01019842510",
+      "verificationStatus": "verified",
+      "taxRegistrationNumber": "542-891-304",
+      "commercialRecordNumber": "CR-DESOQ-9921",
+      "joinedDate": "2024-03-15",
+      "commissionRate": 0.08,
+      "bankAccountOrWallet": {
+        "type": "instapay",
+        "accountNumber": "delta.textiles@instapay",
+        "accountTitle": "شركة دلتا دسوق للمنسوجات القطنية"
+      },
+      "totalSalesEGP": 189310,
+      "availableBalanceEGP": 25581,
+      "pendingBalanceEGP": 5800
+    },
+    {
+      "id": "seller-2",
+      "name": "حلواني دسوق التراثي (آل النحاس)",
+      "ownerName": "الشيف أسامة النحاس",
+      "arabicName": "حلواني دسوق التراثي",
+      "slug": "desoq-heritage-sweets",
+      "logo": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=150&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=1000&auto=format&fit=crop&q=80",
+      "rating": 4.95,
+      "reviewCount": 412,
+      "governorate": "كفر الشيخ",
+      "city": "دسوق",
+      "address": "ميدان سيدي إبراهيم الدسوقي - أمام البوابة الرئيسية، دسوق",
+      "phone": "01124890123",
+      "verificationStatus": "verified",
+      "taxRegistrationNumber": "619-302-884",
+      "commercialRecordNumber": "CR-DESOQ-4412",
+      "joinedDate": "2023-11-20",
+      "commissionRate": 0.1,
+      "bankAccountOrWallet": {
+        "type": "vodafone_cash",
+        "accountNumber": "01066778899",
+        "accountTitle": "حلواني دسوق التراثي"
+      },
+      "totalSalesEGP": 346660,
+      "availableBalanceEGP": 48900,
+      "pendingBalanceEGP": 13304
+    },
+    {
+      "id": "seller-3",
+      "name": "مطاحن ومحامص البرلس ودسوق للبن الفاخر",
+      "ownerName": "م. أحمد البرلسي",
+      "arabicName": "مطاحن ومحامص البرلس ودسوق",
+      "slug": "burullus-desoq-roastery",
+      "logo": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=150&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=1000&auto=format&fit=crop&q=80",
+      "rating": 4.8,
+      "reviewCount": 195,
+      "governorate": "كفر الشيخ",
+      "city": "دسوق",
+      "address": "شارع الكورنيش - عمارة الأطباء، دسوق",
+      "phone": "01229384756",
+      "verificationStatus": "verified",
+      "taxRegistrationNumber": "782-119-445",
+      "commercialRecordNumber": "CR-DESOQ-7833",
+      "joinedDate": "2024-01-10",
+      "commissionRate": 0.1,
+      "bankAccountOrWallet": {
+        "type": "instapay",
+        "accountNumber": "ahmed.burullus@instapay",
+        "accountTitle": "أحمد حامد البرلسي - بن البرلس"
+      },
+      "totalSalesEGP": 129400,
+      "availableBalanceEGP": 18200,
+      "pendingBalanceEGP": 3400
+    },
+    {
+      "id": "seller-4",
+      "name": "إلكترونيات المحطة وكفر الشيخ الذكية",
+      "ownerName": "م. شريف عبد اللطيف",
+      "arabicName": "إلكترونيات المحطة",
+      "slug": "station-electronics-desoq",
+      "logo": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=150&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?w=1000&auto=format&fit=crop&q=80",
+      "rating": 4.7,
+      "reviewCount": 164,
+      "governorate": "كفر الشيخ",
+      "city": "دسوق",
+      "address": "شارع المحطة - مجمع السلام التجاري، دسوق",
+      "phone": "01550998811",
+      "verificationStatus": "verified",
+      "taxRegistrationNumber": "891-224-550",
+      "commercialRecordNumber": "CR-DESOQ-1109",
+      "joinedDate": "2024-05-02",
+      "commissionRate": 0.07,
+      "bankAccountOrWallet": {
+        "type": "bank_account",
+        "accountNumber": "EG55000200010000000984723145",
+        "accountTitle": "شركة إلكترونيات المحطة للتجارة - البنك الأهلي المصري"
+      },
+      "totalSalesEGP": 467800,
+      "availableBalanceEGP": 62100,
+      "pendingBalanceEGP": 14500
+    },
+    {
+      "id": "seller-5",
+      "name": "معارض النيل للأواني والمفروشات المنزلية",
+      "ownerName": "الحاجة فادية غنيم",
+      "arabicName": "معارض النيل للأدوات المنزلية",
+      "slug": "nile-home-desoq",
+      "logo": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=150&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=1000&auto=format&fit=crop&q=80",
+      "rating": 4.65,
+      "reviewCount": 88,
+      "governorate": "كفر الشيخ",
+      "city": "دسوق",
+      "address": "شارع الجلاء متفرع من شارع الجيش، دسوق",
+      "phone": "01002233445",
+      "verificationStatus": "verified",
+      "taxRegistrationNumber": "445-981-220",
+      "commercialRecordNumber": "CR-DESOQ-3301",
+      "joinedDate": "2024-07-12",
+      "commissionRate": 0.09,
+      "bankAccountOrWallet": {
+        "type": "vodafone_cash",
+        "accountNumber": "01002233445",
+        "accountTitle": "معارض النيل للأدوات المنزلية"
+      },
+      "totalSalesEGP": 95400,
+      "availableBalanceEGP": 14200,
+      "pendingBalanceEGP": 2800
+    }
+  ],
+  "orders": [
+    {
+      "id": "SD-558433",
+      "trackingCode": "SD-2026-4509",
+      "customerId": "cust-1788776558433",
+      "customerName": "فاطمة إبراهيم النجار",
+      "customerPhone": "01198765432",
+      "shippingAddress": {
+        "id": "addr-test",
+        "fullName": "أحمد محمود التجريبي",
+        "phone": "01012345678",
+        "governorate": "كفر الشيخ",
+        "city": "دسوق",
+        "district": "حي الصفا",
+        "streetDetails": "شارع الجمهورية",
+        "buildingNo": "14"
+      },
+      "paymentMethod": "fawry",
+      "paymentStatus": "pending_fawry",
+      "fawryReferenceCode": "7822299733",
+      "subOrders": [
+        {
+          "id": "SD-558433-SUB-1",
+          "sellerId": "seller-1",
+          "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+          "items": [
+            {
+              "product": {
+                "id": "prod-1",
+                "sellerId": "seller-1",
+                "titleAr": "طقم ملايات قطن مصري 100% تطريز يدوي فاخر - 6 قطع",
+                "titleEn": "100% Egyptian Cotton Luxury Bed Sheet Set (6 Pcs)",
+                "descriptionAr": "طقم سرير كامل مصنوع من أجود أقطان الدلتا المصرية طويلة التيلة، ناعم جداً ومضاد للحساسية مع تطريز راقٍ صُنع بأيدي نساجي دسوق.",
+                "category": "cat-textiles",
+                "priceEGP": 360,
+                "originalPriceEGP": 1150,
+                "images": [
+                  "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 23,
+                "rating": 4.9,
+                "reviewCount": 94,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "دلتا تكس دسوق",
+                  "origin": "دسوق - كفر الشيخ",
+                  "material": "قطن مصري 100%",
+                  "warranty": "استبدال واسترجاع 14 يوم مجاناً",
+                  "weight": "3.2 كجم"
+                },
+                "variants": [
+                  {
+                    "id": "v1-1",
+                    "name": "أبيض لؤلؤي - سرير كينج 200×200 سم",
+                    "sku": "TEX-WHT-KNG",
+                    "priceEGP": 890,
+                    "stock": 15,
+                    "attributes": {
+                      "color": "أبيض",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-2",
+                    "name": "كافيه هادئ - سرير كينج 200×200 سم",
+                    "sku": "TEX-CAF-KNG",
+                    "priceEGP": 890,
+                    "stock": 8,
+                    "attributes": {
+                      "color": "كافيه",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-3",
+                    "name": "وردي عاجي - سرير مزدوج 160×200 سم",
+                    "sku": "TEX-PNK-DBL",
+                    "priceEGP": 790,
+                    "stock": 5,
+                    "attributes": {
+                      "color": "وردي",
+                      "size": "مزدوج"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-08-10"
+              },
+              "quantity": 1,
+              "sellerId": "seller-1"
+            }
+          ],
+          "subtotalEGP": 360,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 29,
+          "sellerNetEGP": 331,
+          "status": "delivered",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DSQ-TRK-404466",
+          "estimatedDelivery": "خلال 24 ساعة (تسليم دسوق السريع)",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-07T10:22:38.433Z",
+              "noteAr": "تم إنشاء وتثبيت الطلب لدى متجر أقمشة ومنسوجات دلتا دسوق بدسوق وحجز الكميات بنجاح"
+            },
+            {
+              "status": "delivered",
+              "timestamp": "2026-09-07T10:22:38.438Z",
+              "noteAr": "تم تسليم الطرد للعميل واستلام القيمة"
+            }
+          ]
+        },
+        {
+          "id": "SD-558433-SUB-2",
+          "sellerId": "seller-2",
+          "sellerName": "حلواني دسوق التراثي (آل النحاس)",
+          "items": [
+            {
+              "product": {
+                "id": "prod-2",
+                "sellerId": "seller-2",
+                "titleAr": "صندوق حلويات دسوق الملكي المشكل بالسمن البلدي (2 كجم)",
+                "titleEn": "Desoq Royal Heritage Assorted Sweets Box (2kg)",
+                "descriptionAr": "تشكيلة دسوق التراثية الشهيرة تشمل مشبك دسوق المقرمش العسلي، بسبوسة السمن البلدي الطبيعي، هريسة كفر الشيخ بالمكسرات، ولديدة وقشطة طازجة.",
+                "category": "cat-sweets",
+                "priceEGP": 380,
+                "originalPriceEGP": 440,
+                "images": [
+                  "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1579372786545-d24232daf58c?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 35,
+                "rating": 4.98,
+                "reviewCount": 280,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "حلواني النحاس دسوق",
+                  "origin": "ميدان سيدي إبراهيم الدسوقي، دسوق",
+                  "material": "سمن بلدي بقري طبيعي وعسل جلوكوز نقي",
+                  "weight": "2 كجم صافي",
+                  "warranty": "طازج معبأ يوم الشحن"
+                },
+                "variants": [
+                  {
+                    "id": "v2-1",
+                    "name": "علبة فاخرة كرتون هدايا - 2 كجم",
+                    "sku": "SWT-ROYAL-2K",
+                    "priceEGP": 380,
+                    "stock": 30,
+                    "attributes": {
+                      "packaging": "علبة هدايا"
+                    }
+                  },
+                  {
+                    "id": "v2-2",
+                    "name": "صفيحة معدنية كلاسيكية محكمة - 2.5 كجم",
+                    "sku": "SWT-TIN-25K",
+                    "priceEGP": 490,
+                    "stock": 15,
+                    "attributes": {
+                      "packaging": "صفيحة معدنية"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-09-01"
+              },
+              "quantity": 2,
+              "sellerId": "seller-2"
+            }
+          ],
+          "subtotalEGP": 760,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 76,
+          "sellerNetEGP": 684,
+          "status": "seller_confirmed",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DSQ-TRK-313100",
+          "estimatedDelivery": "خلال 24 ساعة (تسليم دسوق السريع)",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-07T10:22:38.433Z",
+              "noteAr": "تم إنشاء وتثبيت الطلب لدى متجر حلواني دسوق التراثي (آل النحاس) بدسوق وحجز الكميات بنجاح"
+            }
+          ]
+        }
+      ],
+      "totalSubtotalEGP": 1120,
+      "totalShippingEGP": 40,
+      "discountEGP": 0,
+      "totalAmountEGP": 1160,
+      "createdAt": "2026-09-07T10:22:38.433Z",
+      "orderStatus": "processing"
+    },
+    {
+      "id": "SD-325898",
+      "trackingCode": "SD-2026-1472",
+      "customerId": "cust-1788693325899",
+      "customerName": "فاطمة إبراهيم النجار",
+      "customerPhone": "01198765432",
+      "shippingAddress": {
+        "id": "addr-test",
+        "fullName": "أحمد محمود التجريبي",
+        "phone": "01012345678",
+        "governorate": "كفر الشيخ",
+        "city": "دسوق",
+        "district": "حي الصفا",
+        "streetDetails": "شارع الجمهورية",
+        "buildingNo": "14"
+      },
+      "paymentMethod": "fawry",
+      "paymentStatus": "pending_fawry",
+      "fawryReferenceCode": "7826510719",
+      "subOrders": [
+        {
+          "id": "SD-325898-SUB-1",
+          "sellerId": "seller-1",
+          "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+          "items": [
+            {
+              "product": {
+                "id": "prod-1",
+                "sellerId": "seller-1",
+                "titleAr": "طقم ملايات قطن مصري 100% تطريز يدوي فاخر - 6 قطع",
+                "titleEn": "100% Egyptian Cotton Luxury Bed Sheet Set (6 Pcs)",
+                "descriptionAr": "طقم سرير كامل مصنوع من أجود أقطان الدلتا المصرية طويلة التيلة، ناعم جداً ومضاد للحساسية مع تطريز راقٍ صُنع بأيدي نساجي دسوق.",
+                "category": "cat-textiles",
+                "priceEGP": 890,
+                "originalPriceEGP": 1150,
+                "images": [
+                  "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 24,
+                "rating": 4.9,
+                "reviewCount": 94,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "دلتا تكس دسوق",
+                  "origin": "دسوق - كفر الشيخ",
+                  "material": "قطن مصري 100%",
+                  "warranty": "استبدال واسترجاع 14 يوم مجاناً",
+                  "weight": "3.2 كجم"
+                },
+                "variants": [
+                  {
+                    "id": "v1-1",
+                    "name": "أبيض لؤلؤي - سرير كينج 200×200 سم",
+                    "sku": "TEX-WHT-KNG",
+                    "priceEGP": 890,
+                    "stock": 15,
+                    "attributes": {
+                      "color": "أبيض",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-2",
+                    "name": "كافيه هادئ - سرير كينج 200×200 سم",
+                    "sku": "TEX-CAF-KNG",
+                    "priceEGP": 890,
+                    "stock": 8,
+                    "attributes": {
+                      "color": "كافيه",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-3",
+                    "name": "وردي عاجي - سرير مزدوج 160×200 سم",
+                    "sku": "TEX-PNK-DBL",
+                    "priceEGP": 790,
+                    "stock": 5,
+                    "attributes": {
+                      "color": "وردي",
+                      "size": "مزدوج"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-08-10"
+              },
+              "quantity": 1,
+              "sellerId": "seller-1"
+            }
+          ],
+          "subtotalEGP": 890,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 71,
+          "sellerNetEGP": 819,
+          "status": "delivered",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DSQ-TRK-878953",
+          "estimatedDelivery": "خلال 24 ساعة (تسليم دسوق السريع)",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-06T11:15:25.898Z",
+              "noteAr": "تم إنشاء وتثبيت الطلب لدى متجر أقمشة ومنسوجات دلتا دسوق بدسوق وحجز الكميات بنجاح"
+            },
+            {
+              "status": "delivered",
+              "timestamp": "2026-09-06T11:15:25.904Z",
+              "noteAr": "تم تسليم الطرد للعميل واستلام القيمة"
+            }
+          ]
+        },
+        {
+          "id": "SD-325898-SUB-2",
+          "sellerId": "seller-2",
+          "sellerName": "حلواني دسوق التراثي (آل النحاس)",
+          "items": [
+            {
+              "product": {
+                "id": "prod-2",
+                "sellerId": "seller-2",
+                "titleAr": "صندوق حلويات دسوق الملكي المشكل بالسمن البلدي (2 كجم)",
+                "titleEn": "Desoq Royal Heritage Assorted Sweets Box (2kg)",
+                "descriptionAr": "تشكيلة دسوق التراثية الشهيرة تشمل مشبك دسوق المقرمش العسلي، بسبوسة السمن البلدي الطبيعي، هريسة كفر الشيخ بالمكسرات، ولديدة وقشطة طازجة.",
+                "category": "cat-sweets",
+                "priceEGP": 380,
+                "originalPriceEGP": 440,
+                "images": [
+                  "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1579372786545-d24232daf58c?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 37,
+                "rating": 4.98,
+                "reviewCount": 280,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "حلواني النحاس دسوق",
+                  "origin": "ميدان سيدي إبراهيم الدسوقي، دسوق",
+                  "material": "سمن بلدي بقري طبيعي وعسل جلوكوز نقي",
+                  "weight": "2 كجم صافي",
+                  "warranty": "طازج معبأ يوم الشحن"
+                },
+                "variants": [
+                  {
+                    "id": "v2-1",
+                    "name": "علبة فاخرة كرتون هدايا - 2 كجم",
+                    "sku": "SWT-ROYAL-2K",
+                    "priceEGP": 380,
+                    "stock": 30,
+                    "attributes": {
+                      "packaging": "علبة هدايا"
+                    }
+                  },
+                  {
+                    "id": "v2-2",
+                    "name": "صفيحة معدنية كلاسيكية محكمة - 2.5 كجم",
+                    "sku": "SWT-TIN-25K",
+                    "priceEGP": 490,
+                    "stock": 15,
+                    "attributes": {
+                      "packaging": "صفيحة معدنية"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-09-01"
+              },
+              "quantity": 2,
+              "sellerId": "seller-2"
+            }
+          ],
+          "subtotalEGP": 760,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 76,
+          "sellerNetEGP": 684,
+          "status": "seller_confirmed",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DSQ-TRK-471882",
+          "estimatedDelivery": "خلال 24 ساعة (تسليم دسوق السريع)",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-06T11:15:25.899Z",
+              "noteAr": "تم إنشاء وتثبيت الطلب لدى متجر حلواني دسوق التراثي (آل النحاس) بدسوق وحجز الكميات بنجاح"
+            }
+          ]
+        }
+      ],
+      "totalSubtotalEGP": 1650,
+      "totalShippingEGP": 40,
+      "discountEGP": 0,
+      "totalAmountEGP": 1690,
+      "createdAt": "2026-09-06T11:15:25.899Z",
+      "orderStatus": "processing"
+    },
+    {
+      "id": "SD-110053",
+      "trackingCode": "SD-2026-5290",
+      "customerId": "cust-1788693110054",
+      "customerName": "فاطمة إبراهيم النجار",
+      "customerPhone": "01198765432",
+      "shippingAddress": {
+        "id": "addr-test",
+        "fullName": "أحمد محمود التجريبي",
+        "phone": "01012345678",
+        "governorate": "كفر الشيخ",
+        "city": "دسوق",
+        "district": "حي الصفا",
+        "streetDetails": "شارع الجمهورية",
+        "buildingNo": "14"
+      },
+      "paymentMethod": "fawry",
+      "paymentStatus": "pending_fawry",
+      "fawryReferenceCode": "7827039527",
+      "subOrders": [
+        {
+          "id": "SD-110053-SUB-1",
+          "sellerId": "seller-1",
+          "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+          "items": [
+            {
+              "product": {
+                "id": "prod-1",
+                "sellerId": "seller-1",
+                "titleAr": "طقم ملايات قطن مصري 100% تطريز يدوي فاخر - 6 قطع",
+                "titleEn": "100% Egyptian Cotton Luxury Bed Sheet Set (6 Pcs)",
+                "descriptionAr": "طقم سرير كامل مصنوع من أجود أقطان الدلتا المصرية طويلة التيلة، ناعم جداً ومضاد للحساسية مع تطريز راقٍ صُنع بأيدي نساجي دسوق.",
+                "category": "cat-textiles",
+                "priceEGP": 890,
+                "originalPriceEGP": 1150,
+                "images": [
+                  "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 24,
+                "rating": 4.9,
+                "reviewCount": 94,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "دلتا تكس دسوق",
+                  "origin": "دسوق - كفر الشيخ",
+                  "material": "قطن مصري 100%",
+                  "warranty": "استبدال واسترجاع 14 يوم مجاناً",
+                  "weight": "3.2 كجم"
+                },
+                "variants": [
+                  {
+                    "id": "v1-1",
+                    "name": "أبيض لؤلؤي - سرير كينج 200×200 سم",
+                    "sku": "TEX-WHT-KNG",
+                    "priceEGP": 890,
+                    "stock": 15,
+                    "attributes": {
+                      "color": "أبيض",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-2",
+                    "name": "كافيه هادئ - سرير كينج 200×200 سم",
+                    "sku": "TEX-CAF-KNG",
+                    "priceEGP": 890,
+                    "stock": 8,
+                    "attributes": {
+                      "color": "كافيه",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-3",
+                    "name": "وردي عاجي - سرير مزدوج 160×200 سم",
+                    "sku": "TEX-PNK-DBL",
+                    "priceEGP": 790,
+                    "stock": 5,
+                    "attributes": {
+                      "color": "وردي",
+                      "size": "مزدوج"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-08-10"
+              },
+              "quantity": 1,
+              "sellerId": "seller-1"
+            }
+          ],
+          "subtotalEGP": 890,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 71,
+          "sellerNetEGP": 819,
+          "status": "delivered",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DSQ-TRK-837105",
+          "estimatedDelivery": "خلال 24 ساعة (تسليم دسوق السريع)",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-06T11:11:50.053Z",
+              "noteAr": "تم إنشاء وتثبيت الطلب لدى متجر أقمشة ومنسوجات دلتا دسوق بدسوق وحجز الكميات بنجاح"
+            },
+            {
+              "status": "delivered",
+              "timestamp": "2026-09-06T11:11:50.057Z",
+              "noteAr": "تم تسليم الطرد للعميل واستلام القيمة"
+            }
+          ]
+        },
+        {
+          "id": "SD-110053-SUB-2",
+          "sellerId": "seller-2",
+          "sellerName": "حلواني دسوق التراثي (آل النحاس)",
+          "items": [
+            {
+              "product": {
+                "id": "prod-2",
+                "sellerId": "seller-2",
+                "titleAr": "صندوق حلويات دسوق الملكي المشكل بالسمن البلدي (2 كجم)",
+                "titleEn": "Desoq Royal Heritage Assorted Sweets Box (2kg)",
+                "descriptionAr": "تشكيلة دسوق التراثية الشهيرة تشمل مشبك دسوق المقرمش العسلي، بسبوسة السمن البلدي الطبيعي، هريسة كفر الشيخ بالمكسرات، ولديدة وقشطة طازجة.",
+                "category": "cat-sweets",
+                "priceEGP": 380,
+                "originalPriceEGP": 440,
+                "images": [
+                  "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1579372786545-d24232daf58c?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 37,
+                "rating": 4.98,
+                "reviewCount": 280,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "حلواني النحاس دسوق",
+                  "origin": "ميدان سيدي إبراهيم الدسوقي، دسوق",
+                  "material": "سمن بلدي بقري طبيعي وعسل جلوكوز نقي",
+                  "weight": "2 كجم صافي",
+                  "warranty": "طازج معبأ يوم الشحن"
+                },
+                "variants": [
+                  {
+                    "id": "v2-1",
+                    "name": "علبة فاخرة كرتون هدايا - 2 كجم",
+                    "sku": "SWT-ROYAL-2K",
+                    "priceEGP": 380,
+                    "stock": 30,
+                    "attributes": {
+                      "packaging": "علبة هدايا"
+                    }
+                  },
+                  {
+                    "id": "v2-2",
+                    "name": "صفيحة معدنية كلاسيكية محكمة - 2.5 كجم",
+                    "sku": "SWT-TIN-25K",
+                    "priceEGP": 490,
+                    "stock": 15,
+                    "attributes": {
+                      "packaging": "صفيحة معدنية"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-09-01"
+              },
+              "quantity": 2,
+              "sellerId": "seller-2"
+            }
+          ],
+          "subtotalEGP": 760,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 76,
+          "sellerNetEGP": 684,
+          "status": "seller_confirmed",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DSQ-TRK-402676",
+          "estimatedDelivery": "خلال 24 ساعة (تسليم دسوق السريع)",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-06T11:11:50.054Z",
+              "noteAr": "تم إنشاء وتثبيت الطلب لدى متجر حلواني دسوق التراثي (آل النحاس) بدسوق وحجز الكميات بنجاح"
+            }
+          ]
+        }
+      ],
+      "totalSubtotalEGP": 1650,
+      "totalShippingEGP": 40,
+      "discountEGP": 0,
+      "totalAmountEGP": 1690,
+      "createdAt": "2026-09-06T11:11:50.054Z",
+      "orderStatus": "processing"
+    },
+    {
+      "id": "SD-139867",
+      "trackingCode": "SD-2026-9594",
+      "customerId": "cust-1788692139868",
+      "customerName": "فاطمة إبراهيم النجار",
+      "customerPhone": "01198765432",
+      "shippingAddress": {
+        "id": "addr-test",
+        "fullName": "أحمد محمود التجريبي",
+        "phone": "01012345678",
+        "governorate": "كفر الشيخ",
+        "city": "دسوق",
+        "district": "حي الصفا",
+        "streetDetails": "شارع الجمهورية",
+        "buildingNo": "14"
+      },
+      "paymentMethod": "fawry",
+      "paymentStatus": "pending_fawry",
+      "fawryReferenceCode": "7823964774",
+      "subOrders": [
+        {
+          "id": "SD-139867-SUB-1",
+          "sellerId": "seller-1",
+          "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+          "items": [
+            {
+              "product": {
+                "id": "prod-1",
+                "sellerId": "seller-1",
+                "titleAr": "طقم ملايات قطن مصري 100% تطريز يدوي فاخر - 6 قطع",
+                "titleEn": "100% Egyptian Cotton Luxury Bed Sheet Set (6 Pcs)",
+                "descriptionAr": "طقم سرير كامل مصنوع من أجود أقطان الدلتا المصرية طويلة التيلة، ناعم جداً ومضاد للحساسية مع تطريز راقٍ صُنع بأيدي نساجي دسوق.",
+                "category": "cat-textiles",
+                "priceEGP": 890,
+                "originalPriceEGP": 1150,
+                "images": [
+                  "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 25,
+                "rating": 4.9,
+                "reviewCount": 94,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "دلتا تكس دسوق",
+                  "origin": "دسوق - كفر الشيخ",
+                  "material": "قطن مصري 100%",
+                  "warranty": "استبدال واسترجاع 14 يوم مجاناً",
+                  "weight": "3.2 كجم"
+                },
+                "variants": [
+                  {
+                    "id": "v1-1",
+                    "name": "أبيض لؤلؤي - سرير كينج 200×200 سم",
+                    "sku": "TEX-WHT-KNG",
+                    "priceEGP": 890,
+                    "stock": 15,
+                    "attributes": {
+                      "color": "أبيض",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-2",
+                    "name": "كافيه هادئ - سرير كينج 200×200 سم",
+                    "sku": "TEX-CAF-KNG",
+                    "priceEGP": 890,
+                    "stock": 8,
+                    "attributes": {
+                      "color": "كافيه",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-3",
+                    "name": "وردي عاجي - سرير مزدوج 160×200 سم",
+                    "sku": "TEX-PNK-DBL",
+                    "priceEGP": 790,
+                    "stock": 5,
+                    "attributes": {
+                      "color": "وردي",
+                      "size": "مزدوج"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-08-10"
+              },
+              "quantity": 1,
+              "sellerId": "seller-1"
+            }
+          ],
+          "subtotalEGP": 890,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 71,
+          "sellerNetEGP": 819,
+          "status": "delivered",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DSQ-TRK-137688",
+          "estimatedDelivery": "خلال 24 ساعة (تسليم دسوق السريع)",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-06T10:55:39.868Z",
+              "noteAr": "تم إنشاء وتثبيت الطلب لدى متجر أقمشة ومنسوجات دلتا دسوق بدسوق وحجز الكميات بنجاح"
+            },
+            {
+              "status": "delivered",
+              "timestamp": "2026-09-06T10:55:39.870Z",
+              "noteAr": "تم تسليم الطرد للعميل واستلام القيمة"
+            }
+          ]
+        },
+        {
+          "id": "SD-139867-SUB-2",
+          "sellerId": "seller-2",
+          "sellerName": "حلواني دسوق التراثي (آل النحاس)",
+          "items": [
+            {
+              "product": {
+                "id": "prod-2",
+                "sellerId": "seller-2",
+                "titleAr": "صندوق حلويات دسوق الملكي المشكل بالسمن البلدي (2 كجم)",
+                "titleEn": "Desoq Royal Heritage Assorted Sweets Box (2kg)",
+                "descriptionAr": "تشكيلة دسوق التراثية الشهيرة تشمل مشبك دسوق المقرمش العسلي، بسبوسة السمن البلدي الطبيعي، هريسة كفر الشيخ بالمكسرات، ولديدة وقشطة طازجة.",
+                "category": "cat-sweets",
+                "priceEGP": 380,
+                "originalPriceEGP": 440,
+                "images": [
+                  "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1579372786545-d24232daf58c?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 39,
+                "rating": 4.98,
+                "reviewCount": 280,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "حلواني النحاس دسوق",
+                  "origin": "ميدان سيدي إبراهيم الدسوقي، دسوق",
+                  "material": "سمن بلدي بقري طبيعي وعسل جلوكوز نقي",
+                  "weight": "2 كجم صافي",
+                  "warranty": "طازج معبأ يوم الشحن"
+                },
+                "variants": [
+                  {
+                    "id": "v2-1",
+                    "name": "علبة فاخرة كرتون هدايا - 2 كجم",
+                    "sku": "SWT-ROYAL-2K",
+                    "priceEGP": 380,
+                    "stock": 30,
+                    "attributes": {
+                      "packaging": "علبة هدايا"
+                    }
+                  },
+                  {
+                    "id": "v2-2",
+                    "name": "صفيحة معدنية كلاسيكية محكمة - 2.5 كجم",
+                    "sku": "SWT-TIN-25K",
+                    "priceEGP": 490,
+                    "stock": 15,
+                    "attributes": {
+                      "packaging": "صفيحة معدنية"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-09-01"
+              },
+              "quantity": 2,
+              "sellerId": "seller-2"
+            }
+          ],
+          "subtotalEGP": 760,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 76,
+          "sellerNetEGP": 684,
+          "status": "seller_confirmed",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DSQ-TRK-384372",
+          "estimatedDelivery": "خلال 24 ساعة (تسليم دسوق السريع)",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-06T10:55:39.868Z",
+              "noteAr": "تم إنشاء وتثبيت الطلب لدى متجر حلواني دسوق التراثي (آل النحاس) بدسوق وحجز الكميات بنجاح"
+            }
+          ]
+        }
+      ],
+      "totalSubtotalEGP": 1650,
+      "totalShippingEGP": 40,
+      "discountEGP": 0,
+      "totalAmountEGP": 1690,
+      "createdAt": "2026-09-06T10:55:39.868Z",
+      "orderStatus": "processing"
+    },
+    {
+      "id": "SD-901627",
+      "trackingCode": "SD-2026-8997",
+      "customerId": "cust-1788691901628",
+      "customerName": "فاطمة إبراهيم النجار",
+      "customerPhone": "01198765432",
+      "shippingAddress": {
+        "id": "addr-test",
+        "fullName": "أحمد محمود التجريبي",
+        "phone": "01012345678",
+        "governorate": "كفر الشيخ",
+        "city": "دسوق",
+        "district": "حي الصفا",
+        "streetDetails": "شارع الجمهورية",
+        "buildingNo": "14"
+      },
+      "paymentMethod": "fawry",
+      "paymentStatus": "pending_fawry",
+      "fawryReferenceCode": "7824351142",
+      "subOrders": [
+        {
+          "id": "SD-901627-SUB-1",
+          "sellerId": "seller-1",
+          "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+          "items": [
+            {
+              "product": {
+                "id": "prod-1",
+                "sellerId": "seller-1",
+                "titleAr": "طقم ملايات قطن مصري 100% تطريز يدوي فاخر - 6 قطع",
+                "titleEn": "100% Egyptian Cotton Luxury Bed Sheet Set (6 Pcs)",
+                "descriptionAr": "طقم سرير كامل مصنوع من أجود أقطان الدلتا المصرية طويلة التيلة، ناعم جداً ومضاد للحساسية مع تطريز راقٍ صُنع بأيدي نساجي دسوق.",
+                "category": "cat-textiles",
+                "priceEGP": 890,
+                "originalPriceEGP": 1150,
+                "images": [
+                  "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 26,
+                "rating": 4.9,
+                "reviewCount": 94,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "دلتا تكس دسوق",
+                  "origin": "دسوق - كفر الشيخ",
+                  "material": "قطن مصري 100%",
+                  "warranty": "استبدال واسترجاع 14 يوم مجاناً",
+                  "weight": "3.2 كجم"
+                },
+                "variants": [
+                  {
+                    "id": "v1-1",
+                    "name": "أبيض لؤلؤي - سرير كينج 200×200 سم",
+                    "sku": "TEX-WHT-KNG",
+                    "priceEGP": 890,
+                    "stock": 15,
+                    "attributes": {
+                      "color": "أبيض",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-2",
+                    "name": "كافيه هادئ - سرير كينج 200×200 سم",
+                    "sku": "TEX-CAF-KNG",
+                    "priceEGP": 890,
+                    "stock": 8,
+                    "attributes": {
+                      "color": "كافيه",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-3",
+                    "name": "وردي عاجي - سرير مزدوج 160×200 سم",
+                    "sku": "TEX-PNK-DBL",
+                    "priceEGP": 790,
+                    "stock": 5,
+                    "attributes": {
+                      "color": "وردي",
+                      "size": "مزدوج"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-08-10"
+              },
+              "quantity": 1,
+              "sellerId": "seller-1"
+            }
+          ],
+          "subtotalEGP": 890,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 71,
+          "sellerNetEGP": 819,
+          "status": "delivered",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DSQ-TRK-419796",
+          "estimatedDelivery": "خلال 24 ساعة (تسليم دسوق السريع)",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-06T10:51:41.627Z",
+              "noteAr": "تم إنشاء وتثبيت الطلب لدى متجر أقمشة ومنسوجات دلتا دسوق بدسوق وحجز الكميات بنجاح"
+            },
+            {
+              "status": "delivered",
+              "timestamp": "2026-09-06T10:51:41.630Z",
+              "noteAr": "تم تسليم الطرد للعميل واستلام القيمة"
+            }
+          ]
+        },
+        {
+          "id": "SD-901627-SUB-2",
+          "sellerId": "seller-2",
+          "sellerName": "حلواني دسوق التراثي (آل النحاس)",
+          "items": [
+            {
+              "product": {
+                "id": "prod-2",
+                "sellerId": "seller-2",
+                "titleAr": "صندوق حلويات دسوق الملكي المشكل بالسمن البلدي (2 كجم)",
+                "titleEn": "Desoq Royal Heritage Assorted Sweets Box (2kg)",
+                "descriptionAr": "تشكيلة دسوق التراثية الشهيرة تشمل مشبك دسوق المقرمش العسلي، بسبوسة السمن البلدي الطبيعي، هريسة كفر الشيخ بالمكسرات، ولديدة وقشطة طازجة.",
+                "category": "cat-sweets",
+                "priceEGP": 380,
+                "originalPriceEGP": 440,
+                "images": [
+                  "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1579372786545-d24232daf58c?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 41,
+                "rating": 4.98,
+                "reviewCount": 280,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "حلواني النحاس دسوق",
+                  "origin": "ميدان سيدي إبراهيم الدسوقي، دسوق",
+                  "material": "سمن بلدي بقري طبيعي وعسل جلوكوز نقي",
+                  "weight": "2 كجم صافي",
+                  "warranty": "طازج معبأ يوم الشحن"
+                },
+                "variants": [
+                  {
+                    "id": "v2-1",
+                    "name": "علبة فاخرة كرتون هدايا - 2 كجم",
+                    "sku": "SWT-ROYAL-2K",
+                    "priceEGP": 380,
+                    "stock": 30,
+                    "attributes": {
+                      "packaging": "علبة هدايا"
+                    }
+                  },
+                  {
+                    "id": "v2-2",
+                    "name": "صفيحة معدنية كلاسيكية محكمة - 2.5 كجم",
+                    "sku": "SWT-TIN-25K",
+                    "priceEGP": 490,
+                    "stock": 15,
+                    "attributes": {
+                      "packaging": "صفيحة معدنية"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-09-01"
+              },
+              "quantity": 2,
+              "sellerId": "seller-2"
+            }
+          ],
+          "subtotalEGP": 760,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 76,
+          "sellerNetEGP": 684,
+          "status": "seller_confirmed",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DSQ-TRK-903067",
+          "estimatedDelivery": "خلال 24 ساعة (تسليم دسوق السريع)",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-06T10:51:41.627Z",
+              "noteAr": "تم إنشاء وتثبيت الطلب لدى متجر حلواني دسوق التراثي (آل النحاس) بدسوق وحجز الكميات بنجاح"
+            }
+          ]
+        }
+      ],
+      "totalSubtotalEGP": 1650,
+      "totalShippingEGP": 40,
+      "discountEGP": 0,
+      "totalAmountEGP": 1690,
+      "createdAt": "2026-09-06T10:51:41.628Z",
+      "orderStatus": "processing"
+    },
+    {
+      "id": "SD-920512",
+      "trackingCode": "SD-2026-7962",
+      "customerId": "cust-1788690920513",
+      "customerName": "فاطمة إبراهيم النجار",
+      "customerPhone": "01198765432",
+      "shippingAddress": {
+        "id": "addr-test",
+        "fullName": "أحمد محمود التجريبي",
+        "phone": "01012345678",
+        "governorate": "كفر الشيخ",
+        "city": "دسوق",
+        "district": "حي الصفا",
+        "streetDetails": "شارع الجمهورية",
+        "buildingNo": "14"
+      },
+      "paymentMethod": "fawry",
+      "paymentStatus": "pending_fawry",
+      "fawryReferenceCode": "7825190499",
+      "subOrders": [
+        {
+          "id": "SD-920512-SUB-1",
+          "sellerId": "seller-1",
+          "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+          "items": [
+            {
+              "product": {
+                "id": "prod-1",
+                "sellerId": "seller-1",
+                "titleAr": "طقم ملايات قطن مصري 100% تطريز يدوي فاخر - 6 قطع",
+                "titleEn": "100% Egyptian Cotton Luxury Bed Sheet Set (6 Pcs)",
+                "descriptionAr": "طقم سرير كامل مصنوع من أجود أقطان الدلتا المصرية طويلة التيلة، ناعم جداً ومضاد للحساسية مع تطريز راقٍ صُنع بأيدي نساجي دسوق.",
+                "category": "cat-textiles",
+                "priceEGP": 890,
+                "originalPriceEGP": 1150,
+                "images": [
+                  "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 27,
+                "rating": 4.9,
+                "reviewCount": 94,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "دلتا تكس دسوق",
+                  "origin": "دسوق - كفر الشيخ",
+                  "material": "قطن مصري 100%",
+                  "warranty": "استبدال واسترجاع 14 يوم مجاناً",
+                  "weight": "3.2 كجم"
+                },
+                "variants": [
+                  {
+                    "id": "v1-1",
+                    "name": "أبيض لؤلؤي - سرير كينج 200×200 سم",
+                    "sku": "TEX-WHT-KNG",
+                    "priceEGP": 890,
+                    "stock": 15,
+                    "attributes": {
+                      "color": "أبيض",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-2",
+                    "name": "كافيه هادئ - سرير كينج 200×200 سم",
+                    "sku": "TEX-CAF-KNG",
+                    "priceEGP": 890,
+                    "stock": 8,
+                    "attributes": {
+                      "color": "كافيه",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-3",
+                    "name": "وردي عاجي - سرير مزدوج 160×200 سم",
+                    "sku": "TEX-PNK-DBL",
+                    "priceEGP": 790,
+                    "stock": 5,
+                    "attributes": {
+                      "color": "وردي",
+                      "size": "مزدوج"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-08-10"
+              },
+              "quantity": 1,
+              "sellerId": "seller-1"
+            }
+          ],
+          "subtotalEGP": 890,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 71,
+          "sellerNetEGP": 819,
+          "status": "delivered",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DSQ-TRK-337578",
+          "estimatedDelivery": "خلال 24 ساعة (تسليم دسوق السريع)",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-06T10:35:20.512Z",
+              "noteAr": "تم إنشاء وتثبيت الطلب لدى متجر أقمشة ومنسوجات دلتا دسوق بدسوق وحجز الكميات بنجاح"
+            },
+            {
+              "status": "delivered",
+              "timestamp": "2026-09-06T10:35:20.514Z",
+              "noteAr": "تم تسليم الطرد للعميل واستلام القيمة"
+            }
+          ]
+        },
+        {
+          "id": "SD-920512-SUB-2",
+          "sellerId": "seller-2",
+          "sellerName": "حلواني دسوق التراثي (آل النحاس)",
+          "items": [
+            {
+              "product": {
+                "id": "prod-2",
+                "sellerId": "seller-2",
+                "titleAr": "صندوق حلويات دسوق الملكي المشكل بالسمن البلدي (2 كجم)",
+                "titleEn": "Desoq Royal Heritage Assorted Sweets Box (2kg)",
+                "descriptionAr": "تشكيلة دسوق التراثية الشهيرة تشمل مشبك دسوق المقرمش العسلي، بسبوسة السمن البلدي الطبيعي، هريسة كفر الشيخ بالمكسرات، ولديدة وقشطة طازجة.",
+                "category": "cat-sweets",
+                "priceEGP": 380,
+                "originalPriceEGP": 440,
+                "images": [
+                  "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1579372786545-d24232daf58c?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 43,
+                "rating": 4.98,
+                "reviewCount": 280,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "حلواني النحاس دسوق",
+                  "origin": "ميدان سيدي إبراهيم الدسوقي، دسوق",
+                  "material": "سمن بلدي بقري طبيعي وعسل جلوكوز نقي",
+                  "weight": "2 كجم صافي",
+                  "warranty": "طازج معبأ يوم الشحن"
+                },
+                "variants": [
+                  {
+                    "id": "v2-1",
+                    "name": "علبة فاخرة كرتون هدايا - 2 كجم",
+                    "sku": "SWT-ROYAL-2K",
+                    "priceEGP": 380,
+                    "stock": 30,
+                    "attributes": {
+                      "packaging": "علبة هدايا"
+                    }
+                  },
+                  {
+                    "id": "v2-2",
+                    "name": "صفيحة معدنية كلاسيكية محكمة - 2.5 كجم",
+                    "sku": "SWT-TIN-25K",
+                    "priceEGP": 490,
+                    "stock": 15,
+                    "attributes": {
+                      "packaging": "صفيحة معدنية"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-09-01"
+              },
+              "quantity": 2,
+              "sellerId": "seller-2"
+            }
+          ],
+          "subtotalEGP": 760,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 76,
+          "sellerNetEGP": 684,
+          "status": "seller_confirmed",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DSQ-TRK-660404",
+          "estimatedDelivery": "خلال 24 ساعة (تسليم دسوق السريع)",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-06T10:35:20.512Z",
+              "noteAr": "تم إنشاء وتثبيت الطلب لدى متجر حلواني دسوق التراثي (آل النحاس) بدسوق وحجز الكميات بنجاح"
+            }
+          ]
+        }
+      ],
+      "totalSubtotalEGP": 1650,
+      "totalShippingEGP": 40,
+      "discountEGP": 0,
+      "totalAmountEGP": 1690,
+      "createdAt": "2026-09-06T10:35:20.513Z",
+      "orderStatus": "processing"
+    },
+    {
+      "id": "ord-1001",
+      "trackingCode": "SD-2026-8941",
+      "customerId": "cust-demo",
+      "customerName": "م. يوسف الخولي",
+      "customerPhone": "01098765432",
+      "shippingAddress": {
+        "id": "addr-1",
+        "fullName": "يوسف الخولي",
+        "phone": "01098765432",
+        "governorate": "كفر الشيخ",
+        "city": "دسوق",
+        "district": "شارع الجيش",
+        "streetDetails": "برج الصفا السكني، بجوار صيدلية الدكتور أحمد",
+        "buildingNo": "14",
+        "floorNo": "3",
+        "apartmentNo": "6",
+        "isDefault": true
+      },
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "pending_cod",
+      "totalSubtotalEGP": 1270,
+      "totalShippingEGP": 35,
+      "discountEGP": 50,
+      "totalAmountEGP": 1255,
+      "createdAt": "2026-09-05T14:20:00Z",
+      "orderStatus": "shipped",
+      "subOrders": [
+        {
+          "id": "sub-ord-1001-A",
+          "sellerId": "seller-1",
+          "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+          "items": [
+            {
+              "product": {
+                "id": "prod-1",
+                "sellerId": "seller-1",
+                "titleAr": "طقم ملايات قطن مصري 100% تطريز يدوي فاخر - 6 قطع",
+                "titleEn": "100% Egyptian Cotton Luxury Bed Sheet Set (6 Pcs)",
+                "descriptionAr": "طقم سرير كامل مصنوع من أجود أقطان الدلتا المصرية طويلة التيلة، ناعم جداً ومضاد للحساسية مع تطريز راقٍ صُنع بأيدي نساجي دسوق.",
+                "category": "cat-textiles",
+                "priceEGP": 890,
+                "originalPriceEGP": 1150,
+                "images": [
+                  "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 28,
+                "rating": 4.9,
+                "reviewCount": 94,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "دلتا تكس دسوق",
+                  "origin": "دسوق - كفر الشيخ",
+                  "material": "قطن مصري 100%",
+                  "warranty": "استبدال واسترجاع 14 يوم مجاناً",
+                  "weight": "3.2 كجم"
+                },
+                "variants": [
+                  {
+                    "id": "v1-1",
+                    "name": "أبيض لؤلؤي - سرير كينج 200×200 سم",
+                    "sku": "TEX-WHT-KNG",
+                    "priceEGP": 890,
+                    "stock": 15,
+                    "attributes": {
+                      "color": "أبيض",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-2",
+                    "name": "كافيه هادئ - سرير كينج 200×200 سم",
+                    "sku": "TEX-CAF-KNG",
+                    "priceEGP": 890,
+                    "stock": 8,
+                    "attributes": {
+                      "color": "كافيه",
+                      "size": "كينج"
+                    }
+                  },
+                  {
+                    "id": "v1-3",
+                    "name": "وردي عاجي - سرير مزدوج 160×200 سم",
+                    "sku": "TEX-PNK-DBL",
+                    "priceEGP": 790,
+                    "stock": 5,
+                    "attributes": {
+                      "color": "وردي",
+                      "size": "مزدوج"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-08-10"
+              },
+              "selectedVariant": {
+                "id": "v1-1",
+                "name": "أبيض لؤلؤي - سرير كينج 200×200 سم",
+                "sku": "TEX-WHT-KNG",
+                "priceEGP": 890,
+                "stock": 15,
+                "attributes": {
+                  "color": "أبيض",
+                  "size": "كينج"
+                }
+              },
+              "quantity": 1,
+              "sellerId": "seller-1"
+            }
+          ],
+          "subtotalEGP": 890,
+          "shippingFeeEGP": 20,
+          "commissionEGP": 71.2,
+          "sellerNetEGP": 838.8,
+          "status": "shipped",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DES-EXP-88912",
+          "estimatedDelivery": "اليوم، خلال 3 ساعات داخل دسوق",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-05T14:35:00Z",
+              "noteAr": "تم تجهيز الطرد وتغليفه في مقر المتجر بشارع سعد زغلول"
+            },
+            {
+              "status": "shipped",
+              "timestamp": "2026-09-05T16:10:00Z",
+              "noteAr": "تم تسليم الشحنة لمندوب التوصيل السريع بدسوق"
+            }
+          ]
+        },
+        {
+          "id": "sub-ord-1001-B",
+          "sellerId": "seller-2",
+          "sellerName": "حلواني دسوق التراثي (آل النحاس)",
+          "items": [
+            {
+              "product": {
+                "id": "prod-2",
+                "sellerId": "seller-2",
+                "titleAr": "صندوق حلويات دسوق الملكي المشكل بالسمن البلدي (2 كجم)",
+                "titleEn": "Desoq Royal Heritage Assorted Sweets Box (2kg)",
+                "descriptionAr": "تشكيلة دسوق التراثية الشهيرة تشمل مشبك دسوق المقرمش العسلي، بسبوسة السمن البلدي الطبيعي، هريسة كفر الشيخ بالمكسرات، ولديدة وقشطة طازجة.",
+                "category": "cat-sweets",
+                "priceEGP": 380,
+                "originalPriceEGP": 440,
+                "images": [
+                  "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=800&auto=format&fit=crop&q=80",
+                  "https://images.unsplash.com/photo-1579372786545-d24232daf58c?w=800&auto=format&fit=crop&q=80"
+                ],
+                "stock": 45,
+                "rating": 4.98,
+                "reviewCount": 280,
+                "isFeatured": true,
+                "isDesoqLocalMade": true,
+                "isFastDesoqDelivery": true,
+                "attributes": {
+                  "brand": "حلواني النحاس دسوق",
+                  "origin": "ميدان سيدي إبراهيم الدسوقي، دسوق",
+                  "material": "سمن بلدي بقري طبيعي وعسل جلوكوز نقي",
+                  "weight": "2 كجم صافي",
+                  "warranty": "طازج معبأ يوم الشحن"
+                },
+                "variants": [
+                  {
+                    "id": "v2-1",
+                    "name": "علبة فاخرة كرتون هدايا - 2 كجم",
+                    "sku": "SWT-ROYAL-2K",
+                    "priceEGP": 380,
+                    "stock": 30,
+                    "attributes": {
+                      "packaging": "علبة هدايا"
+                    }
+                  },
+                  {
+                    "id": "v2-2",
+                    "name": "صفيحة معدنية كلاسيكية محكمة - 2.5 كجم",
+                    "sku": "SWT-TIN-25K",
+                    "priceEGP": 490,
+                    "stock": 15,
+                    "attributes": {
+                      "packaging": "صفيحة معدنية"
+                    }
+                  }
+                ],
+                "status": "active",
+                "createdAt": "2024-09-01"
+              },
+              "selectedVariant": {
+                "id": "v2-1",
+                "name": "علبة فاخرة كرتون هدايا - 2 كجم",
+                "sku": "SWT-ROYAL-2K",
+                "priceEGP": 380,
+                "stock": 30,
+                "attributes": {
+                  "packaging": "علبة هدايا"
+                }
+              },
+              "quantity": 1,
+              "sellerId": "seller-2"
+            }
+          ],
+          "subtotalEGP": 380,
+          "shippingFeeEGP": 15,
+          "commissionEGP": 38,
+          "sellerNetEGP": 357,
+          "status": "out_for_delivery",
+          "shippingProvider": "DesoqExpress",
+          "trackingNumber": "DES-EXP-88913",
+          "estimatedDelivery": "اليوم، جاري التسليم بواسطة مندوب سوق دسوق",
+          "statusHistory": [
+            {
+              "status": "seller_confirmed",
+              "timestamp": "2026-09-05T14:25:00Z",
+              "noteAr": "تم تجهيز وتعبئة الحلويات الطازجة من فرع الميدان الإبراهيمي"
+            },
+            {
+              "status": "shipped",
+              "timestamp": "2026-09-05T15:00:00Z",
+              "noteAr": "استلم المندوب الشحنة الطازجة"
+            },
+            {
+              "status": "out_for_delivery",
+              "timestamp": "2026-09-05T17:30:00Z",
+              "noteAr": "المندوب كابتن علاء في طريقه لعنوانك بشارع الجيش"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "disputes": [
+    {
+      "id": "DISP-2026-8196",
+      "orderId": "SD-558433",
+      "subOrderId": "SD-558433-SUB-1",
+      "sellerId": "seller-1",
+      "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+      "customerName": "فاطمة إبراهيم النجار",
+      "reason": "defective_product",
+      "description": "السلعة بها عيب تصنيع واضح ومطلوب رد المبلغ وفق قانون حماية المستهلك",
+      "requestedResolution": "refund",
+      "status": "resolved",
+      "createdAt": "2026-09-07T10:22:38.441Z",
+      "messages": [
+        {
+          "sender": "customer",
+          "senderName": "فاطمة إبراهيم النجار",
+          "message": "السلعة بها عيب تصنيع واضح ومطلوب رد المبلغ وفق قانون حماية المستهلك",
+          "timestamp": "2026-09-07T10:22:38.441Z"
+        },
+        {
+          "sender": "admin",
+          "senderName": "إدارة التحكيم وحماية المستهلك بسوق دسوق",
+          "message": "قرار التحكيم النهائي: بناء على فحص العيب المصنعي تقرر رد المبلغ بالكامل للمشتري وخصمه من مستحقات التاجر",
+          "timestamp": "2026-09-07T10:22:38.443Z"
+        }
+      ],
+      "resolution": "بناء على فحص العيب المصنعي تقرر رد المبلغ بالكامل للمشتري وخصمه من مستحقات التاجر"
+    },
+    {
+      "id": "DISP-2026-8115",
+      "orderId": "SD-325898",
+      "subOrderId": "SD-325898-SUB-1",
+      "sellerId": "seller-1",
+      "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+      "customerName": "فاطمة إبراهيم النجار",
+      "reason": "defective_product",
+      "description": "السلعة بها عيب تصنيع واضح ومطلوب رد المبلغ وفق قانون حماية المستهلك",
+      "requestedResolution": "refund",
+      "status": "resolved",
+      "createdAt": "2026-09-06T11:15:25.905Z",
+      "messages": [
+        {
+          "sender": "customer",
+          "senderName": "فاطمة إبراهيم النجار",
+          "message": "السلعة بها عيب تصنيع واضح ومطلوب رد المبلغ وفق قانون حماية المستهلك",
+          "timestamp": "2026-09-06T11:15:25.906Z"
+        },
+        {
+          "sender": "admin",
+          "senderName": "إدارة التحكيم وحماية المستهلك بسوق دسوق",
+          "message": "قرار التحكيم النهائي: بناء على فحص العيب المصنعي تقرر رد المبلغ بالكامل للمشتري وخصمه من مستحقات التاجر",
+          "timestamp": "2026-09-06T11:15:25.908Z"
+        },
+        {
+          "sender": "admin",
+          "senderName": "إدارة التحكيم وحماية المستهلك بسوق دسوق",
+          "message": "قرار التحكيم النهائي: Support approved refund under Law 181/2018",
+          "timestamp": "2026-09-07T10:13:04.144Z"
+        }
+      ],
+      "resolution": "Support approved refund under Law 181/2018"
+    },
+    {
+      "id": "DISP-2026-5218",
+      "orderId": "SD-110053",
+      "subOrderId": "SD-110053-SUB-1",
+      "sellerId": "seller-1",
+      "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+      "customerName": "فاطمة إبراهيم النجار",
+      "reason": "defective_product",
+      "description": "السلعة بها عيب تصنيع واضح ومطلوب رد المبلغ وفق قانون حماية المستهلك",
+      "requestedResolution": "refund",
+      "status": "resolved",
+      "createdAt": "2026-09-06T11:11:50.059Z",
+      "messages": [
+        {
+          "sender": "customer",
+          "senderName": "فاطمة إبراهيم النجار",
+          "message": "السلعة بها عيب تصنيع واضح ومطلوب رد المبلغ وفق قانون حماية المستهلك",
+          "timestamp": "2026-09-06T11:11:50.059Z"
+        },
+        {
+          "sender": "admin",
+          "senderName": "إدارة التحكيم وحماية المستهلك بسوق دسوق",
+          "message": "قرار التحكيم النهائي: بناء على فحص العيب المصنعي تقرر رد المبلغ بالكامل للمشتري وخصمه من مستحقات التاجر",
+          "timestamp": "2026-09-06T11:11:50.060Z"
+        }
+      ],
+      "resolution": "بناء على فحص العيب المصنعي تقرر رد المبلغ بالكامل للمشتري وخصمه من مستحقات التاجر"
+    },
+    {
+      "id": "DISP-2026-7573",
+      "orderId": "SD-139867",
+      "subOrderId": "SD-139867-SUB-1",
+      "sellerId": "seller-1",
+      "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+      "customerName": "فاطمة إبراهيم النجار",
+      "reason": "defective_product",
+      "description": "السلعة بها عيب تصنيع واضح ومطلوب رد المبلغ وفق قانون حماية المستهلك",
+      "requestedResolution": "refund",
+      "status": "resolved",
+      "createdAt": "2026-09-06T10:55:39.871Z",
+      "messages": [
+        {
+          "sender": "customer",
+          "senderName": "فاطمة إبراهيم النجار",
+          "message": "السلعة بها عيب تصنيع واضح ومطلوب رد المبلغ وفق قانون حماية المستهلك",
+          "timestamp": "2026-09-06T10:55:39.871Z"
+        },
+        {
+          "sender": "admin",
+          "senderName": "إدارة التحكيم وحماية المستهلك بسوق دسوق",
+          "message": "قرار التحكيم النهائي: بناء على فحص العيب المصنعي تقرر رد المبلغ بالكامل للمشتري وخصمه من مستحقات التاجر",
+          "timestamp": "2026-09-06T10:55:39.872Z"
+        }
+      ],
+      "resolution": "بناء على فحص العيب المصنعي تقرر رد المبلغ بالكامل للمشتري وخصمه من مستحقات التاجر"
+    },
+    {
+      "id": "DISP-2026-4348",
+      "orderId": "SD-901627",
+      "subOrderId": "SD-901627-SUB-1",
+      "sellerId": "seller-1",
+      "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+      "customerName": "فاطمة إبراهيم النجار",
+      "reason": "defective_product",
+      "description": "السلعة بها عيب تصنيع واضح ومطلوب رد المبلغ وفق قانون حماية المستهلك",
+      "requestedResolution": "refund",
+      "status": "resolved",
+      "createdAt": "2026-09-06T10:51:41.631Z",
+      "messages": [
+        {
+          "sender": "customer",
+          "senderName": "فاطمة إبراهيم النجار",
+          "message": "السلعة بها عيب تصنيع واضح ومطلوب رد المبلغ وفق قانون حماية المستهلك",
+          "timestamp": "2026-09-06T10:51:41.631Z"
+        },
+        {
+          "sender": "admin",
+          "senderName": "إدارة التحكيم وحماية المستهلك بسوق دسوق",
+          "message": "قرار التحكيم النهائي: بناء على فحص العيب المصنعي تقرر رد المبلغ بالكامل للمشتري وخصمه من مستحقات التاجر",
+          "timestamp": "2026-09-06T10:51:41.632Z"
+        }
+      ],
+      "resolution": "بناء على فحص العيب المصنعي تقرر رد المبلغ بالكامل للمشتري وخصمه من مستحقات التاجر"
+    },
+    {
+      "id": "DISP-2026-6527",
+      "orderId": "SD-920512",
+      "subOrderId": "SD-920512-SUB-1",
+      "sellerId": "seller-1",
+      "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+      "customerName": "فاطمة إبراهيم النجار",
+      "reason": "defective_product",
+      "description": "السلعة بها عيب تصنيع واضح ومطلوب رد المبلغ وفق قانون حماية المستهلك",
+      "requestedResolution": "refund",
+      "status": "resolved",
+      "createdAt": "2026-09-06T10:35:20.515Z",
+      "messages": [
+        {
+          "sender": "customer",
+          "senderName": "فاطمة إبراهيم النجار",
+          "message": "السلعة بها عيب تصنيع واضح ومطلوب رد المبلغ وفق قانون حماية المستهلك",
+          "timestamp": "2026-09-06T10:35:20.515Z"
+        },
+        {
+          "sender": "admin",
+          "senderName": "إدارة التحكيم وحماية المستهلك بسوق دسوق",
+          "message": "قرار التحكيم النهائي: بناء على فحص العيب المصنعي تقرر رد المبلغ بالكامل للمشتري وخصمه من مستحقات التاجر",
+          "timestamp": "2026-09-06T10:35:20.516Z"
+        }
+      ],
+      "resolution": "بناء على فحص العيب المصنعي تقرر رد المبلغ بالكامل للمشتري وخصمه من مستحقات التاجر"
+    },
+    {
+      "id": "disp-201",
+      "orderId": "ord-1001",
+      "subOrderId": "sub-ord-1001-A",
+      "sellerId": "seller-1",
+      "sellerName": "أقمشة ومنسوجات دلتا دسوق",
+      "customerName": "م. يوسف الخولي",
+      "reason": "not_as_described",
+      "description": "استفسار عن مقاس تلبيسة المخدات، أرغب بالتأكد إن كان يمكن استبدالها بمقاس 70×50 سم بدلاً من 80×50 سم طبقاً لسياسة سوق دسوق للاستبدال.",
+      "requestedResolution": "replacement",
+      "status": "seller_review",
+      "createdAt": "2026-09-05T18:00:00Z",
+      "messages": [
+        {
+          "sender": "customer",
+          "senderName": "يوسف الخولي",
+          "message": "مرحباً، هل يتوفر المقاس البديل لتسليمه مع المندوب غداً؟",
+          "timestamp": "2026-09-05T18:00:00Z"
+        },
+        {
+          "sender": "seller",
+          "senderName": "الحاج مصطفى الصياد (دلتا تكس)",
+          "message": "أهلاً بك يا فندم، نعم متوفر لدينا في مقر دسوق ومندوبنا جاهز لتبديلها مجاناً في زيارة الغد احتراماً لعملائنا الكرام.",
+          "timestamp": "2026-09-05T18:35:00Z"
+        }
+      ]
+    }
+  ],
+  "ledger": [
+    {
+      "id": "led-refund-DISP-2026-8196",
+      "timestamp": "2026-09-07T10:22:38.443Z",
+      "type": "refund",
+      "orderId": "SD-558433",
+      "subOrderId": "SD-558433-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 360,
+      "description": "رد قيمة السلعة للمشتري تنفيذاً لحكم التحكيم رقم DISP-2026-8196 وفق قانون حماية المستهلك",
+      "balanceAfterEGP": 25581
+    },
+    {
+      "id": "led-deliv-SD-558433-SUB-1",
+      "timestamp": "2026-09-07T10:22:38.438Z",
+      "type": "seller_credit",
+      "orderId": "SD-558433",
+      "subOrderId": "SD-558433-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 331,
+      "description": "تحويل مستحقات الطرد DSQ-TRK-404466 إلى الرصيد المتاح بعد اكتمال التسليم بنجاح",
+      "balanceAfterEGP": 25912
+    },
+    {
+      "id": "led-sub-SD-558433-SUB-2",
+      "timestamp": "2026-09-07T10:22:38.433Z",
+      "type": "order_sale",
+      "orderId": "SD-558433",
+      "subOrderId": "SD-558433-SUB-2",
+      "sellerId": "seller-2",
+      "amountEGP": 760,
+      "description": "مبيعات طلب SD-2026-4509 (صافي التاجر: 684 ج.م، عمولة المنصة: 76 ج.م)",
+      "balanceAfterEGP": 62204
+    },
+    {
+      "id": "led-sub-SD-558433-SUB-1",
+      "timestamp": "2026-09-07T10:22:38.433Z",
+      "type": "order_sale",
+      "orderId": "SD-558433",
+      "subOrderId": "SD-558433-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 360,
+      "description": "مبيعات طلب SD-2026-4509 (صافي التاجر: 331 ج.م، عمولة المنصة: 29 ج.م)",
+      "balanceAfterEGP": 31712
+    },
+    {
+      "id": "led-refund-DISP-2026-8115",
+      "timestamp": "2026-09-07T10:13:04.144Z",
+      "type": "refund",
+      "orderId": "SD-325898",
+      "subOrderId": "SD-325898-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 890,
+      "description": "رد قيمة السلعة للمشتري تنفيذاً لحكم التحكيم رقم DISP-2026-8115 وفق قانون حماية المستهلك",
+      "balanceAfterEGP": 25581
+    },
+    {
+      "id": "led-refund-DISP-2026-8115",
+      "timestamp": "2026-09-06T11:15:25.908Z",
+      "type": "refund",
+      "orderId": "SD-325898",
+      "subOrderId": "SD-325898-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 890,
+      "description": "رد قيمة السلعة للمشتري تنفيذاً لحكم التحكيم رقم DISP-2026-8115 وفق قانون حماية المستهلك",
+      "balanceAfterEGP": 26400
+    },
+    {
+      "id": "led-deliv-SD-325898-SUB-1",
+      "timestamp": "2026-09-06T11:15:25.904Z",
+      "type": "seller_credit",
+      "orderId": "SD-325898",
+      "subOrderId": "SD-325898-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 819,
+      "description": "تحويل مستحقات الطرد DSQ-TRK-878953 إلى الرصيد المتاح بعد اكتمال التسليم بنجاح",
+      "balanceAfterEGP": 27219
+    },
+    {
+      "id": "led-sub-SD-325898-SUB-2",
+      "timestamp": "2026-09-06T11:15:25.899Z",
+      "type": "order_sale",
+      "orderId": "SD-325898",
+      "subOrderId": "SD-325898-SUB-2",
+      "sellerId": "seller-2",
+      "amountEGP": 760,
+      "description": "مبيعات طلب SD-2026-1472 (صافي التاجر: 684 ج.م، عمولة المنصة: 76 ج.م)",
+      "balanceAfterEGP": 61520
+    },
+    {
+      "id": "led-sub-SD-325898-SUB-1",
+      "timestamp": "2026-09-06T11:15:25.899Z",
+      "type": "order_sale",
+      "orderId": "SD-325898",
+      "subOrderId": "SD-325898-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 890,
+      "description": "مبيعات طلب SD-2026-1472 (صافي التاجر: 819 ج.م، عمولة المنصة: 71 ج.م)",
+      "balanceAfterEGP": 33019
+    },
+    {
+      "id": "led-refund-DISP-2026-5218",
+      "timestamp": "2026-09-06T11:11:50.061Z",
+      "type": "refund",
+      "orderId": "SD-110053",
+      "subOrderId": "SD-110053-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 890,
+      "description": "رد قيمة السلعة للمشتري تنفيذاً لحكم التحكيم رقم DISP-2026-5218 وفق قانون حماية المستهلك",
+      "balanceAfterEGP": 26400
+    },
+    {
+      "id": "led-deliv-SD-110053-SUB-1",
+      "timestamp": "2026-09-06T11:11:50.057Z",
+      "type": "seller_credit",
+      "orderId": "SD-110053",
+      "subOrderId": "SD-110053-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 819,
+      "description": "تحويل مستحقات الطرد DSQ-TRK-837105 إلى الرصيد المتاح بعد اكتمال التسليم بنجاح",
+      "balanceAfterEGP": 27219
+    },
+    {
+      "id": "led-sub-SD-110053-SUB-2",
+      "timestamp": "2026-09-06T11:11:50.054Z",
+      "type": "order_sale",
+      "orderId": "SD-110053",
+      "subOrderId": "SD-110053-SUB-2",
+      "sellerId": "seller-2",
+      "amountEGP": 760,
+      "description": "مبيعات طلب SD-2026-5290 (صافي التاجر: 684 ج.م، عمولة المنصة: 76 ج.م)",
+      "balanceAfterEGP": 60836
+    },
+    {
+      "id": "led-sub-SD-110053-SUB-1",
+      "timestamp": "2026-09-06T11:11:50.054Z",
+      "type": "order_sale",
+      "orderId": "SD-110053",
+      "subOrderId": "SD-110053-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 890,
+      "description": "مبيعات طلب SD-2026-5290 (صافي التاجر: 819 ج.م، عمولة المنصة: 71 ج.م)",
+      "balanceAfterEGP": 33019
+    },
+    {
+      "id": "led-refund-DISP-2026-7573",
+      "timestamp": "2026-09-06T10:55:39.872Z",
+      "type": "refund",
+      "orderId": "SD-139867",
+      "subOrderId": "SD-139867-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 890,
+      "description": "رد قيمة السلعة للمشتري تنفيذاً لحكم التحكيم رقم DISP-2026-7573 وفق قانون حماية المستهلك",
+      "balanceAfterEGP": 26400
+    },
+    {
+      "id": "led-deliv-SD-139867-SUB-1",
+      "timestamp": "2026-09-06T10:55:39.870Z",
+      "type": "seller_credit",
+      "orderId": "SD-139867",
+      "subOrderId": "SD-139867-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 819,
+      "description": "تحويل مستحقات الطرد DSQ-TRK-137688 إلى الرصيد المتاح بعد اكتمال التسليم بنجاح",
+      "balanceAfterEGP": 27219
+    },
+    {
+      "id": "led-sub-SD-139867-SUB-2",
+      "timestamp": "2026-09-06T10:55:39.868Z",
+      "type": "order_sale",
+      "orderId": "SD-139867",
+      "subOrderId": "SD-139867-SUB-2",
+      "sellerId": "seller-2",
+      "amountEGP": 760,
+      "description": "مبيعات طلب SD-2026-9594 (صافي التاجر: 684 ج.م، عمولة المنصة: 76 ج.م)",
+      "balanceAfterEGP": 60152
+    },
+    {
+      "id": "led-sub-SD-139867-SUB-1",
+      "timestamp": "2026-09-06T10:55:39.868Z",
+      "type": "order_sale",
+      "orderId": "SD-139867",
+      "subOrderId": "SD-139867-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 890,
+      "description": "مبيعات طلب SD-2026-9594 (صافي التاجر: 819 ج.م، عمولة المنصة: 71 ج.م)",
+      "balanceAfterEGP": 33019
+    },
+    {
+      "id": "led-refund-DISP-2026-4348",
+      "timestamp": "2026-09-06T10:51:41.632Z",
+      "type": "refund",
+      "orderId": "SD-901627",
+      "subOrderId": "SD-901627-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 890,
+      "description": "رد قيمة السلعة للمشتري تنفيذاً لحكم التحكيم رقم DISP-2026-4348 وفق قانون حماية المستهلك",
+      "balanceAfterEGP": 26400
+    },
+    {
+      "id": "led-deliv-SD-901627-SUB-1",
+      "timestamp": "2026-09-06T10:51:41.630Z",
+      "type": "seller_credit",
+      "orderId": "SD-901627",
+      "subOrderId": "SD-901627-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 819,
+      "description": "تحويل مستحقات الطرد DSQ-TRK-419796 إلى الرصيد المتاح بعد اكتمال التسليم بنجاح",
+      "balanceAfterEGP": 27219
+    },
+    {
+      "id": "led-sub-SD-901627-SUB-2",
+      "timestamp": "2026-09-06T10:51:41.627Z",
+      "type": "order_sale",
+      "orderId": "SD-901627",
+      "subOrderId": "SD-901627-SUB-2",
+      "sellerId": "seller-2",
+      "amountEGP": 760,
+      "description": "مبيعات طلب SD-2026-8997 (صافي التاجر: 684 ج.م، عمولة المنصة: 76 ج.م)",
+      "balanceAfterEGP": 59468
+    },
+    {
+      "id": "led-sub-SD-901627-SUB-1",
+      "timestamp": "2026-09-06T10:51:41.627Z",
+      "type": "order_sale",
+      "orderId": "SD-901627",
+      "subOrderId": "SD-901627-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 890,
+      "description": "مبيعات طلب SD-2026-8997 (صافي التاجر: 819 ج.م، عمولة المنصة: 71 ج.م)",
+      "balanceAfterEGP": 33019
+    },
+    {
+      "id": "led-refund-DISP-2026-6527",
+      "timestamp": "2026-09-06T10:35:20.516Z",
+      "type": "refund",
+      "orderId": "SD-920512",
+      "subOrderId": "SD-920512-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 890,
+      "description": "رد قيمة السلعة للمشتري تنفيذاً لحكم التحكيم رقم DISP-2026-6527 وفق قانون حماية المستهلك",
+      "balanceAfterEGP": 26400
+    },
+    {
+      "id": "led-deliv-SD-920512-SUB-1",
+      "timestamp": "2026-09-06T10:35:20.514Z",
+      "type": "seller_credit",
+      "orderId": "SD-920512",
+      "subOrderId": "SD-920512-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 819,
+      "description": "تحويل مستحقات الطرد DSQ-TRK-337578 إلى الرصيد المتاح بعد اكتمال التسليم بنجاح",
+      "balanceAfterEGP": 27219
+    },
+    {
+      "id": "led-sub-SD-920512-SUB-2",
+      "timestamp": "2026-09-06T10:35:20.512Z",
+      "type": "order_sale",
+      "orderId": "SD-920512",
+      "subOrderId": "SD-920512-SUB-2",
+      "sellerId": "seller-2",
+      "amountEGP": 760,
+      "description": "مبيعات طلب SD-2026-7962 (صافي التاجر: 684 ج.م، عمولة المنصة: 76 ج.م)",
+      "balanceAfterEGP": 58784
+    },
+    {
+      "id": "led-sub-SD-920512-SUB-1",
+      "timestamp": "2026-09-06T10:35:20.512Z",
+      "type": "order_sale",
+      "orderId": "SD-920512",
+      "subOrderId": "SD-920512-SUB-1",
+      "sellerId": "seller-1",
+      "amountEGP": 890,
+      "description": "مبيعات طلب SD-2026-7962 (صافي التاجر: 819 ج.م، عمولة المنصة: 71 ج.م)",
+      "balanceAfterEGP": 33019
+    },
+    {
+      "id": "led-init-1",
+      "timestamp": "2026-09-06T10:35:20.503Z",
+      "type": "platform_commission",
+      "sellerId": "seller-1",
+      "amountEGP": 14760,
+      "description": "عمولات تراكمية محققة عبر سوق دسوق",
+      "balanceAfterEGP": 26400
+    }
+  ],
+  "carts": {
+    "default": [],
+    "user-test-autorun": []
+  },
+  "users": [
+    {
+      "id": "cust-demo",
+      "email": "customer@souqdesoq.eg",
+      "passwordHash": "0b51bf2d2a9bfa9a6160d420d7d85f43d74200c8d86419e90613269f0362a249",
+      "fullName": "أحمد محمود النجار (مشتري معتمد)",
+      "phone": "01012345678",
+      "role": "customer",
+      "createdAt": "2026-09-01T10:00:00Z"
+    },
+    {
+      "id": "user-seller-1",
+      "email": "farmawy@souqdesoq.eg",
+      "passwordHash": "0b51bf2d2a9bfa9a6160d420d7d85f43d74200c8d86419e90613269f0362a249",
+      "fullName": "الحاج مصطفى الفرماوي (تاجر معتمد)",
+      "phone": "01099887766",
+      "role": "seller",
+      "sellerId": "seller-1",
+      "createdAt": "2026-09-01T10:00:00Z"
+    },
+    {
+      "id": "user-seller-2",
+      "email": "carpet@souqdesoq.eg",
+      "passwordHash": "0b51bf2d2a9bfa9a6160d420d7d85f43d74200c8d86419e90613269f0362a249",
+      "fullName": "الأسطى عبد الحميد الغازي (تاجر معتمد)",
+      "phone": "01122334455",
+      "role": "seller",
+      "sellerId": "seller-2",
+      "createdAt": "2026-09-01T10:00:00Z"
+    },
+    {
+      "id": "user-support-1",
+      "email": "support@souqdesoq.eg",
+      "passwordHash": "0b51bf2d2a9bfa9a6160d420d7d85f43d74200c8d86419e90613269f0362a249",
+      "fullName": "أ. مروة الشاذلي (مستشار التحكيم وحماية المستهلك)",
+      "phone": "01233445566",
+      "role": "support",
+      "createdAt": "2026-09-01T10:00:00Z"
+    },
+    {
+      "id": "user-admin-1",
+      "email": "admin@souqdesoq.eg",
+      "passwordHash": "0b51bf2d2a9bfa9a6160d420d7d85f43d74200c8d86419e90613269f0362a249",
+      "fullName": "م. كريم دسوقي (المشرف العام على المنصة)",
+      "phone": "01555667788",
+      "role": "admin",
+      "createdAt": "2026-09-01T10:00:00Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjdXN0LWRlbW8iLCJyb2xlIjoiY3VzdG9tZXIiLCJlbWFpbCI6ImN1c3RvbWVyQHNvdXFkZXNvcS5lZyIsImZ1bGxOYW1lIjoi2KPYrdmF2K8g2YXYrdmF2YjYryDYp9mE2YbYrNin2LEgKNmF2LTYqtix2Yog2YXYudiq2YXYrykiLCJpYXQiOjE3ODg3NzU5NTAyMDksImV4cCI6MTc4OTM4MDc1MDIwOX0.NmOF8tK4RY3lLTXUAvWID_8goBhC-WhLaz2FLF6RLgE",
+      "userId": "cust-demo",
+      "role": "customer",
+      "createdAt": "2026-09-07T10:12:30.209Z",
+      "expiresAt": "2026-09-14T10:12:30.209Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjdXN0LWRlbW8iLCJyb2xlIjoiY3VzdG9tZXIiLCJlbWFpbCI6ImN1c3RvbWVyQHNvdXFkZXNvcS5lZyIsImZ1bGxOYW1lIjoi2KPYrdmF2K8g2YXYrdmF2YjYryDYp9mE2YbYrNin2LEgKNmF2LTYqtix2Yog2YXYudiq2YXYrykiLCJpYXQiOjE3ODg3NzU5NjI5MDgsImV4cCI6MTc4OTM4MDc2MjkwOH0.r-kTKJdFZmghzj_x95x3hV3Uuf0mvHvu_ZqI-MKQ7Rw",
+      "userId": "cust-demo",
+      "role": "customer",
+      "createdAt": "2026-09-07T10:12:42.908Z",
+      "expiresAt": "2026-09-14T10:12:42.908Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjdXN0LWRlbW8iLCJyb2xlIjoiY3VzdG9tZXIiLCJlbWFpbCI6ImN1c3RvbWVyQHNvdXFkZXNvcS5lZyIsImZ1bGxOYW1lIjoi2KPYrdmF2K8g2YXYrdmF2YjYryDYp9mE2YbYrNin2LEgKNmF2LTYqtix2Yog2YXYudiq2YXYrykiLCJpYXQiOjE3ODg3NzU5NjQ2OTIsImV4cCI6MTc4OTM4MDc2NDY5Mn0.vGbF4ZQ1E5-7PWhgAARKrYzpMfRsodbw-NFz2z8NYBk",
+      "userId": "cust-demo",
+      "role": "customer",
+      "createdAt": "2026-09-07T10:12:44.693Z",
+      "expiresAt": "2026-09-14T10:12:44.693Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyLXNlbGxlci0xIiwicm9sZSI6InNlbGxlciIsInNlbGxlcklkIjoic2VsbGVyLTEiLCJlbWFpbCI6ImZhcm1hd3lAc291cWRlc29xLmVnIiwiZnVsbE5hbWUiOiLYp9mE2K3Yp9isINmF2LXYt9mB2Ykg2KfZhNmB2LHZhdin2YjZiiAo2KrYp9is2LEg2YXYudiq2YXYrykiLCJpYXQiOjE3ODg3NzU5NjgyMzAsImV4cCI6MTc4OTM4MDc2ODIzMH0.rQ5uL7rnGTIHQEurrE6p23ho0GFkPNd1oQf7V8Tlu4c",
+      "userId": "user-seller-1",
+      "role": "seller",
+      "sellerId": "seller-1",
+      "createdAt": "2026-09-07T10:12:48.230Z",
+      "expiresAt": "2026-09-14T10:12:48.230Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjdXN0LWRlbW8iLCJyb2xlIjoiY3VzdG9tZXIiLCJlbWFpbCI6ImN1c3RvbWVyQHNvdXFkZXNvcS5lZyIsImZ1bGxOYW1lIjoi2KPYrdmF2K8g2YXYrdmF2YjYryDYp9mE2YbYrNin2LEgKNmF2LTYqtix2Yog2YXYudiq2YXYrykiLCJpYXQiOjE3ODg3NzU5NzMwOTEsImV4cCI6MTc4OTM4MDc3MzA5MX0.VM8QBL98QUEhFF-KDnHLAHk7E3Wy89vojiYuzk8wXC8",
+      "userId": "cust-demo",
+      "role": "customer",
+      "createdAt": "2026-09-07T10:12:53.091Z",
+      "expiresAt": "2026-09-14T10:12:53.091Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyLXN1cHBvcnQtMSIsInJvbGUiOiJzdXBwb3J0IiwiZW1haWwiOiJzdXBwb3J0QHNvdXFkZXNvcS5lZyIsImZ1bGxOYW1lIjoi2KMuINmF2LHZiNipINin2YTYtNin2LDZhNmKICjZhdiz2KrYtNin2LEg2KfZhNiq2K3Zg9mK2YUg2YjYrdmF2KfZitipINin2YTZhdiz2KrZh9mE2YMpIiwiaWF0IjoxNzg4Nzc1OTczMTIwLCJleHAiOjE3ODkzODA3NzMxMjB9.PA4mzam6v0bdFcB8ANyoUWWwHtI9lPojeLQNipBGdUA",
+      "userId": "user-support-1",
+      "role": "support",
+      "createdAt": "2026-09-07T10:12:53.120Z",
+      "expiresAt": "2026-09-14T10:12:53.120Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyLXN1cHBvcnQtMSIsInJvbGUiOiJzdXBwb3J0IiwiZW1haWwiOiJzdXBwb3J0QHNvdXFkZXNvcS5lZyIsImZ1bGxOYW1lIjoi2KMuINmF2LHZiNipINin2YTYtNin2LDZhNmKICjZhdiz2KrYtNin2LEg2KfZhNiq2K3Zg9mK2YUg2YjYrdmF2KfZitipINin2YTZhdiz2KrZh9mE2YMpIiwiaWF0IjoxNzg4Nzc1OTg0MTEzLCJleHAiOjE3ODkzODA3ODQxMTN9.45N0pfRP7UdFGdVPDv3ZnLY7OitbgstbhAl_f0e66fE",
+      "userId": "user-support-1",
+      "role": "support",
+      "createdAt": "2026-09-07T10:13:04.113Z",
+      "expiresAt": "2026-09-14T10:13:04.113Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjdXN0LWRlbW8iLCJyb2xlIjoiY3VzdG9tZXIiLCJlbWFpbCI6ImN1c3RvbWVyQHNvdXFkZXNvcS5lZyIsImZ1bGxOYW1lIjoi2KPYrdmF2K8g2YXYrdmF2YjYryDYp9mE2YbYrNin2LEgKNmF2LTYqtix2Yog2YXYudiq2YXYrykiLCJpYXQiOjE3ODg3NzYwNDQ0MjcsImV4cCI6MTc4OTM4MDg0NDQyN30.UPwW0Xn4LMUpp4_lKwCfWwGYuajNYnhmVlNVNznz3CE",
+      "userId": "cust-demo",
+      "role": "customer",
+      "createdAt": "2026-09-07T10:14:04.427Z",
+      "expiresAt": "2026-09-14T10:14:04.427Z"
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjdXN0LWRlbW8iLCJyb2xlIjoiY3VzdG9tZXIiLCJlbWFpbCI6ImN1c3RvbWVyQHNvdXFkZXNvcS5lZyIsImZ1bGxOYW1lIjoi2KPYrdmF2K8g2YXYrdmF2YjYryDYp9mE2YbYrNin2LEgKNmF2LTYqtix2Yog2YXYudiq2YXYrykiLCJpYXQiOjE3ODg3NzYwNDQ1NTEsImV4cCI6MTc4OTM4MDg0NDU1MX0.zbfXPihC2Nahz6GZPeAT83yQTFHC4qLRxArlVcalFvs",
+      "userId": "cust-demo",
+      "role": "customer",
+      "createdAt": "2026-09-07T10:14:04.551Z",
+      "expiresAt": "2026-09-14T10:14:04.551Z"
+    }
+  ],
+  "lastUpdated": "2026-09-07T10:22:38.453Z"
+}

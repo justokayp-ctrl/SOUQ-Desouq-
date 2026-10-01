@@ -1,0 +1,211 @@
+@import "tailwindcss";
+
+:root {
+  /* Brand Core Variables (Light Canvas) */
+  --desoq-burgundy: #800020;
+  --desoq-burgundy-hover: #66001A;
+  --desoq-burgundy-light: rgba(128, 0, 32, 0.08);
+  --desoq-burgundy-subtle: rgba(128, 0, 32, 0.04);
+  --desoq-burgundy-border: rgba(128, 0, 32, 0.16);
+
+  --desoq-gold: #D4AF37;
+  --desoq-gold-hover: #B89628;
+  --desoq-gold-light: rgba(212, 175, 55, 0.14);
+  --desoq-gold-border: rgba(212, 175, 55, 0.32);
+  --desoq-gold-glow: rgba(212, 175, 55, 0.35);
+
+  --desoq-cream: #FDFBF7;
+  --desoq-cream-surface: #FAF7F2;
+  --desoq-cream-card: #FFFFFF;
+  --desoq-cream-border: #EBE5D8;
+
+  --desoq-charcoal: #141416;
+  --desoq-charcoal-ink: #1A1A1A;
+  --desoq-charcoal-muted: #52525B;
+
+  --desoq-bg: #FDFBF7;
+  --desoq-surface: #FAF7F2;
+  --desoq-card: #FFFFFF;
+  --desoq-border: #EBE5D8;
+  --desoq-text: #1A1A1A;
+  --desoq-text-muted: #6B7280;
+}
+
+.dark {
+  /* Brand Core Variables (Dark Obsidian & Basalt Canvas) */
+  --desoq-bg: #0B0B0D;
+  --desoq-surface: #141416;
+  --desoq-card: #1A1A1E;
+  --desoq-border: #2A2A32;
+  --desoq-text: #F4F4F5;
+  --desoq-text-muted: #9CA3AF;
+
+  --desoq-burgundy-light: rgba(128, 0, 32, 0.25);
+  --desoq-burgundy-border: rgba(128, 0, 32, 0.40);
+  --desoq-gold-light: rgba(212, 175, 55, 0.18);
+  --desoq-gold-border: rgba(212, 175, 55, 0.40);
+}
+
+@layer base {
+  html {
+    font-size: clamp(14px, 0.3vw + 13.5px, 17px);
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Tajawal', 'Cairo', system-ui, -apple-system, sans-serif;
+    background-color: var(--desoq-bg);
+    color: var(--desoq-text);
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    min-height: 100vh;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cairo', system-ui, -apple-system, sans-serif;
+    letter-spacing: -0.01em;
+  }
+}
+
+/* ============================================================================
+   OFFICIAL SOUQ DESOQ GEOMETRIC SHIELD MOTIFS & VISUAL TOKENS
+   ============================================================================ */
+
+/* Classic Superman-inspired 5-sided pentagonal shield geometry */
+.desoq-shield-clip {
+  clip-path: polygon(0% 0%, 100% 0%, 100% 72%, 50% 100%, 0% 72%);
+}
+
+.desoq-shield-seal {
+  clip-path: polygon(50% 0%, 100% 18%, 100% 82%, 50% 100%, 0% 82%, 0% 18%);
+}
+
+.desoq-chamfer-corner {
+  clip-path: polygon(8px 0%, calc(100% - 8px) 0%, 100% 8px, 100% calc(100% - 8px), calc(100% - 8px) 100%, 8px 100%, 0% calc(100% - 8px), 0% 8px);
+}
+
+/* Gold Sheen & Egyptian Linen Textures */
+.gold-gradient-text {
+  background: linear-gradient(135deg, #D4AF37 0%, #F5E5A8 50%, #B89628 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.burgundy-gradient {
+  background: linear-gradient(135deg, #800020 0%, #520015 100%);
+}
+
+.gold-border-glow {
+  box-shadow: 0 0 16px rgba(212, 175, 55, 0.25);
+}
+
+.burgundy-border-glow {
+  box-shadow: 0 0 16px rgba(128, 0, 32, 0.20);
+}
+
+/* Clean Egyptian Marketplace Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--desoq-surface);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #D8D1C2;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #800020;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #27272A;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #D4AF37;
+}
+
+/* ============================================================================
+   ACCESSIBILITY & RESPONSIVE STANDARDS (WCAG AA & Ergonomic Touch Targets)
+   ============================================================================ */
+
+/* High-Contrast Visible Focus Rings for Keyboard Navigation */
+:focus-visible {
+  outline: 2px solid var(--desoq-gold) !important;
+  outline-offset: 2px !important;
+}
+
+.dark :focus-visible {
+  outline: 2px solid #F5E5A8 !important;
+  outline-offset: 2px !important;
+}
+
+/* Reduced-Motion Support */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Minimum 44px Touch Target for Mobile Usability */
+.touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Fluid Typography & Aspect Ratio Scale Helpers */
+.fluid-hero-title {
+  font-size: clamp(1.25rem, 3.8vw, 2.75rem);
+  line-height: 1.2;
+}
+
+.fluid-section-title {
+  font-size: clamp(1.1rem, 2.5vw, 1.75rem);
+  line-height: 1.25;
+}
+
+.fluid-card-title {
+  font-size: clamp(0.75rem, 1.2vw, 0.95rem);
+  line-height: 1.35;
+}
+
+/* Mobile Safe Area Inset Support */
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom, 16px);
+}
+
+.pt-safe {
+  padding-top: env(safe-area-inset-top, 16px);
+}
+
+/* Relative Viewport Responsive Components & Containers */
+.vw-container {
+  width: min(94vw, 88rem);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.vh-hero-slider {
+  min-height: clamp(16rem, 45vh, 30rem);
+}
+
+.vh-modal-content {
+  max-height: 88vh;
+  width: min(92vw, 56rem);
+}
+
+.vw-card-button {
+  min-height: clamp(2rem, 4.5vh, 2.5rem);
+  padding-left: clamp(0.5rem, 1.5vw, 1rem);
+  padding-right: clamp(0.5rem, 1.5vw, 1rem);
+}
+

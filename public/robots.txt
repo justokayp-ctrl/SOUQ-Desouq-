@@ -1,0 +1,8 @@
+# Souq Desoq Robots.txt File
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /seller-portal/
+
+Sitemap: https://souqdesoq.com/sitemap.xml

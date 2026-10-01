@@ -1,0 +1,52 @@
+================================================================================
+SOUQ DESOQ MARKETPLACE — QA & AUTOMATED TESTING UPDATE MANIFEST
+Version: 2.1.0-qa-unified
+Date: 2026-09-08
+================================================================================
+
+1. OVERVIEW & INTENT
+--------------------------------------------------------------------------------
+This manifest documents the consolidation and integration of the QA test suites
+into the core Souq Desoq codebase. All test modules have been harmonized under a
+single execution pipeline (`npm test`) without duplication or conflicting assertions.
+
+2. ARTIFACTS & FILE STRUCTURE
+--------------------------------------------------------------------------------
+/QA_UPDATE_MANIFEST.txt             - This update manifest file
+/TESTING.md                         - Complete developer & QA testing documentation
+/tests/testFramework.ts             - Unified lightweight test runner & HTTP client
+/tests/run-tests.ts                 - Master orchestrator for all test suites
+/tests/browser/smoke.spec.ts        - Frontend & browser user journey smoke specs
+/tests/integration/
+  ├── api-security.test.ts          - RBAC & ownership boundary validation
+  └── e2e-workflows.test.ts         - End-to-end checkout, payment & concurrency
+/tests/qa/
+  ├── qaConfig.ts                   - QA SLAs, thresholds, personas, and governorates
+  ├── api-smoke.test.ts             - Live API endpoint availability & latency smoke
+  ├── project-integrity.test.ts     - Repository structure, schemas & security audit
+  └── report.ts                     - Structured QA report generator (JSON/Markdown)
+/tests/unit/
+  ├── auth-rbac.test.ts             - Token generation, role resolution & passwords
+  ├── cart-checkout.test.ts         - Authoritative quotes, discounts & cart math
+  ├── catalog-search.test.ts        - Arabic normalization & taxonomy filtering
+  ├── disputes-consumer-law.test.ts - Egyptian Consumer Protection Law 181/2018
+  ├── events-workers.test.ts        - Domain events & async background job engine
+  ├── orders-inventory.test.ts      - Multi-vendor order splitting & stock locking
+  └── payments-refunds-ledger.test.ts - Fawry payments, refunds & immutable ledger
+
+3. UNIFICATION & DEDUPLICATION RULES
+--------------------------------------------------------------------------------
+- Unit tests focus strictly on business logic, math calculations, and model constraints.
+- Integration tests focus on cross-service workflows (HTTP -> DB -> Ledger -> EventBus).
+- QA Smoke tests verify endpoint reachability, HTTP headers, latency budgets (<250ms).
+- Project Integrity tests verify filesystem state, translation parity, and secret sanitization.
+- Browser specs define critical user journeys and responsive viewport benchmarks.
+- A single test runner (`tests/run-tests.ts`) executes all server/domain suites sequentially.
+
+4. EXECUTION INSTRUCTIONS
+--------------------------------------------------------------------------------
+Run full test suite:
+  $ npm test
+
+Or run directly via tsx:
+  $ npx tsx tests/run-tests.ts

@@ -1,0 +1,8 @@
+{
+  "name": "سوق دسوق الرقمي | Souq Desoq",
+  "description": "المنصة الرسمية المخصصة لتجارة الملابس والأزياء والأقطان المصرية وتفصيل البدل والعبايات في دسوق وكفر الشيخ ودلتا مصر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
